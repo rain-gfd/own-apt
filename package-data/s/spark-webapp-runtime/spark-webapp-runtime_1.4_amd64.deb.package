@@ -1,0 +1,16 @@
+Package: spark-webapp-runtime
+Architecture: amd64
+Version: 1.4
+Priority: optional
+Section: utils
+Maintainer: shenmo<shenmo@spark-app.store>
+Installed-Size: 10240
+Depends: libdtkwidget5(>=5.2.2.15-1),libdtkcore5(>=5.2.2.15-1),libqt5webengine5(>=5.11.3)
+Filename: ./s/spark-webapp-runtime/spark-webapp-runtime_1.4_amd64.deb
+Size: 158644
+MD5sum: 947c3f4772a420a49aea4f4c0fc423fd
+SHA1: adaf9c98fd9e23bb3da16d3f2b5042fd6e85ff3e
+SHA256: f07f188a445cd3d9e172836216d9ca28aa0895a35b62cab3ad4a41b0cf7bca97
+SHA512: efa5506c1ff0aac211bc7262102925ba086f61eeafb5388ca49b1b6f69e0c7a0b6ba2f248ed93b8793d9636953a7ed1e13afa1c2c213071f56c01ebfd00d9fe7
+Description: spark web engine
+

@@ -1,0 +1,15 @@
+Package: spark-webapp-runtime-runner
+Architecture: amd64
+Version: 1.1.0
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>、为什么您不喜欢熊出没和阿布呢
+Depends: spark-webapp-runtime, libdtkcore5, libdtkwidget5, libdtkgui5, curl
+Filename: ./s/spark-webapp-runtime-runner/spark-webapp-runtime-runner_1.1.0_amd64.deb
+Size: 42024
+MD5sum: 014611c4ffaca56525ce871150dd6f96
+SHA1: 788623f65fe24458acf0faccf60aa0e5f64e4603
+SHA256: ade2b06c314f75101ab80bb188a6230e63671715c085bfa3f8de071fce72c028
+SHA512: aa1f42888531609c0b473b78fcb4e27ebd528744aba0190c7ef0573f914a7ace45fd5fc820f18ce94c5e735a1097cfcad70a7417847eff2bce0d2ba21a2ad2b9
+Homepage: https://gitee.com/gfdgd-xi/spark-webapp-runtime-runner/
+Description: gfdgd xi、为什么您不喜欢熊出没和阿布呢 制作的spark-webapp-runtime-runner
+
