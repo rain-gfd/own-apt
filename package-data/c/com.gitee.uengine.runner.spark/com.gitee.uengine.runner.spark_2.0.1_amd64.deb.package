@@ -1,0 +1,32 @@
+Package: com.gitee.uengine.runner.spark
+Architecture: amd64
+Version: 2.0.1
+Priority: optional
+Section: utils
+Source: com.gitee.uengine.runner.spark
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 2920
+Depends: python3, python3-tk, python3-pip, aapt, python3-setuptools, deepin-terminal | mate-terminal | gnome-terminal | xfce4-terminal, curl, python3-pil, python3-requests, adb, fonts-noto-cjk, python3-numpy, wget, inotify-tools, aria2, python3-pyqt5, python3-matplotlib, python3-urllib3
+Recommends: uengine, deepin-elf-verify, python3-pyqt5.qtwebengine
+Conflicts: spark-uengine-apk-builder, com.gitee.uengine.runner.spark.ubuntu
+Replaces: spark-uengine-runner, com.gitee.uengine.runner.spark.ubuntu
+Filename: ./c/com.gitee.uengine.runner.spark/com.gitee.uengine.runner.spark_2.0.1_amd64.deb
+Size: 1292176
+MD5sum: 23e25e59d4b81256b94f99c992088dbd
+SHA1: 49e870e61a3664289cba7fbd597a2e049f09481a
+SHA256: 6b29476a811fdfb7a7d8d39b46b08716967f419dfc55aa0a5618a79ce0ca5eb5
+SHA512: 34020a35387c5439a35bf3ee37b946ae6a03cf13782000b23854103475f507e8e77da4ad01dfd8e0bb3773f73f4cd5d9b17b41bd223527de027e235ccbeaa338
+Homepage: https://gitee.com/gfdgd-xi/uengine-runner
+Description: UEngine 运行器，2.0.1 更新内容：
+ ※1、新增移除在 Ubuntu 上安装的 UEngine 及其附属脚本的功能
+ ※2、优化 Ubuntu 安装器启用和安装逻辑，不允许在 UOS/Deepin 安装移植的 Ubuntu UEngine
+ ※3、Ubuntu 安装器不允许在非 X86 架构上使用
+ ※4、在升级/安装运行器的 deb 时会自动移除安装错误的 UEngine 生成的脚本
+ ※5、Ubuntu 安装器进行环境监测
+ ※6、修复应用商店换源问题（由@Bail修复）
+ 6、修改作者信息
+ 7、更新使用帮助
+ 8、关于窗口修复系统失败错误的问题并新增安装包构建时间
+ 9、移除赞赏功能
+ 10、微型应用商店适配了更新关闭进程（由@Bail实现）
+
