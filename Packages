@@ -673,6 +673,90 @@ SHA512: ea70d7d3ce4884f2c8a7aacba8db117bdb65da1abf708b9d59e539c0a19eb7161d166782
 Homepage: https://gitee.com/gfdgd-xi/deep-wine5-application-packer
 Description: gfdgd xi make's deepin-wine5 application packer
 
+Package: spark-simple-remote-desktop-accessor
+Architecture: loongarch64
+Version: 1.2.1
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi<3025613752@qq.com>, 为什么您不喜欢熊出没和阿布呢
+Depends: libdtkcore5, libdtkwidget5, libdtkgui5, rdesktop, curl, libhogweed4, libnettle6, deepin-elf-verify (>= 1.1.1-1)
+Filename: ./s/spark-simple-remote-desktop-accessor/spark-simple-remote-desktop-accessor_1.2.1_loongarch64.deb
+Size: 527216
+MD5sum: 7fbeee3b4d07f2920a48433e0a4f1c76
+SHA1: 999c7b35e0c16c97e04e22d780b9c8d3c56b07ca
+SHA256: 7f4139bde4f56d9a9c5255eb1a57959e4f2a2ec3eca2ad5712c7ae19d27df563
+SHA512: 443d3ec7b74ab0b182df2728cf51b5d886ba364754f2e43e08f5d4b7d8982e394373703c6db4fd2d5743c3d9babea7f920f7220ef5de305c1f145fa66ce656de
+Description: 一个基于 dtk 制作的一个简易远程桌面连接软件
+
+Package: spark-simple-remote-desktop-accessor
+Architecture: arm64
+Version: 1.2.1
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi<3025613752@qq.com>, 为什么您不喜欢熊出没和阿布呢
+Depends: libdtkcore5, libdtkwidget5, libdtkgui5, rdesktop, curl, libhogweed4, libnettle6, deepin-elf-verify (>= 1.1.1-1)
+Filename: ./s/spark-simple-remote-desktop-accessor/spark-simple-remote-desktop-accessor_1.2.1_arm64.deb
+Size: 527448
+MD5sum: 00e80dbe18cae13f74d413182f698dd0
+SHA1: f359698d6bb2b319ddf708bfd8269d79f1d21041
+SHA256: c3546ccf04424c9b29bad8ca5a7c933e1d4f505af001b1dd9ba1bed6f79b9d82
+SHA512: 1fc70cd1a7a2522660302cbca739526d7b360d72175e4bdf3a9513cf4981fa47f8f607a22d04bba2fcf6f950ad976ea546b43681f8346aa9a49eea776d26212d
+Description: 一个基于 dtk 制作的一个简易远程桌面连接软件
+
+Package: spark-simple-remote-desktop-accessor
+Architecture: amd64
+Version: 1.2.0-1
+Maintainer: gfdgd xi<3025613752@qq.com>, 为什么您不喜欢熊出没和阿布呢
+Depends: libdtkcore5, libdtkwidget5, libdtkgui5, rdesktop, curl, libhogweed4, libnettle6
+Filename: ./s/spark-simple-remote-desktop-accessor/spark-simple-remote-desktop-accessor_1.2.0-1_amd64.deb
+Size: 486000
+MD5sum: 42f94d590c632adbd7a6e1cc11fcd673
+SHA1: 290f53d63d567280d7e0f584c74f39fdc8597908
+SHA256: 7dc8452b2c072d33029a7dfea4879401493fcd75d6748c4a48094718f0f40ad2
+SHA512: 118d996ab76b7a19aeb2009f9dec1144dee3b201293ea92924f19f1527cdeefda15c28427c27c25aa520cfaf8b6c00741732acdd89ac3a764427590363fdb464
+Description: 一个基于 dtk 制作的一个简易远程桌面连接软件
+
+Package: spark-simple-remote-desktop-accessor
+Architecture: arm64
+Version: 1.2.0-1
+Maintainer: gfdgd xi<3025613752@qq.com>, 为什么您不喜欢熊出没和阿布呢
+Depends: libdtkcore5, libdtkwidget5, libdtkgui5, rdesktop, curl, libhogweed4, libnettle6
+Filename: ./s/spark-simple-remote-desktop-accessor/spark-simple-remote-desktop-accessor_1.2.0-1_arm64.deb
+Size: 486332
+MD5sum: e4c1ac6273fd20f521cdeb8f038b3bb0
+SHA1: c1a88436d7d243f98825bba6fdab00dfb4f1d799
+SHA256: 448787d7d45b1fafab21710844c6ee337e7bfe30a4f9bc7fb24407d0bcf16405
+SHA512: 985042d55eb7025ee84d0da5dfeaf425f2c7f0e3c7bd38ab5fb2d2c97d1c1ae2001892ab4ee5e8484e7516092832227322b9374a19adceadba821da688f30c99
+Description: 一个基于 dtk 制作的一个简易远程桌面连接软件
+
+Package: spark-simple-remote-desktop-accessor
+Architecture: amd64
+Version: 1.2.0
+Maintainer: gfdgd xi<3025613752@qq.com>, 为什么您不喜欢熊出没和阿布呢
+Depends: libdtkcore5, libdtkwidget5, libdtkgui5, rdesktop
+Filename: ./s/spark-simple-remote-desktop-accessor/spark-simple-remote-desktop-accessor_1.2.0_amd64.deb
+Size: 485896
+MD5sum: 5cf5c9d5da9425c60628fa8586141097
+SHA1: f13226ac2f7f2ee2dd749311df690236ffb0e4e9
+SHA256: ee5adc6b3664bbcd3deb325cb11f05648cb0b7d39769b01001bca08b7d52f824
+SHA512: 60e5097400260bc1a0e57e133dbbaf56b3fafc8e156e88f59c189a329157dc1345de94968efa3cad704724ff13849687ab8621795f1ed2d5b93f8c3eca0d538e
+Description: 一个基于 dtk 制作的一个简易远程桌面连接软件
+
+Package: spark-simple-remote-desktop-accessor
+Architecture: amd64
+Version: 1.2.0-3
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi<3025613752@qq.com>, 为什么您不喜欢熊出没和阿布呢
+Depends: libdtkcore5, libdtkwidget5, libdtkgui5, rdesktop, curl, libhogweed4, libnettle6, deepin-elf-verify (>= 1.1.1-1)
+Filename: ./s/spark-simple-remote-desktop-accessor/spark-simple-remote-desktop-accessor_1.2.0-3_amd64.deb
+Size: 505304
+MD5sum: afdc6f8f41ea8abbf46f8dc06c3a8247
+SHA1: c4be7c1bf01d637fd62ead787830a0303a4462a5
+SHA256: d26618c925f2570d10fc083578a2c38f8e9eecb80067dd5eed80ed2a7cf5f8db
+SHA512: c2cbecf44e15c2babc691fd8a568d845c5d1f2dbb300c40911f66c20ae1a891d17bc2dd8683b4ed11b1ea84fb4d8dec7a5061f733bac7d88239b10522ea858e8
+Description: 一个基于 dtk 制作的一个简易远程桌面连接软件
+
 Package: spark-webapp-runtime
 Architecture: loongarch64
 Version: 1.7.0-1

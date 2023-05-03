@@ -1,0 +1,15 @@
+Package: spark-simple-remote-desktop-accessor
+Architecture: amd64
+Version: 1.2.0-3
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi<3025613752@qq.com>, 为什么您不喜欢熊出没和阿布呢
+Depends: libdtkcore5, libdtkwidget5, libdtkgui5, rdesktop, curl, libhogweed4, libnettle6, deepin-elf-verify (>= 1.1.1-1)
+Filename: ./s/spark-simple-remote-desktop-accessor/spark-simple-remote-desktop-accessor_1.2.0-3_amd64.deb
+Size: 505304
+MD5sum: afdc6f8f41ea8abbf46f8dc06c3a8247
+SHA1: c4be7c1bf01d637fd62ead787830a0303a4462a5
+SHA256: d26618c925f2570d10fc083578a2c38f8e9eecb80067dd5eed80ed2a7cf5f8db
+SHA512: c2cbecf44e15c2babc691fd8a568d845c5d1f2dbb300c40911f66c20ae1a891d17bc2dd8683b4ed11b1ea84fb4d8dec7a5061f733bac7d88239b10522ea858e8
+Description: 一个基于 dtk 制作的一个简易远程桌面连接软件
+
