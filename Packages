@@ -474,6 +474,77 @@ Description: UEngine 运行器，1.8.2 更新内容：
  7、新增部分资源入口
  开发/参与者：gfdgd xi <3025613752@qq.com>, actionchen<917981399@qq.com>, 柚子<https://gitee.com/Limexb>, 为什么您不喜欢熊出没和阿布呢<https://weibo.com/u/7755040136>, 星空露光<https://gitee.com/Cynorkyle>, shenmo<jifengshenmo@outlook.com>
 
+Package: spark.gitee.timer
+Architecture: arm64
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi<3025613752@qq.com>
+Depends: libdtkcore5, libdtkwidget5, libdtkgui5, deepin-elf-verify (>= 1.1.1-1)
+Filename: ./s/spark.gitee.timer/spark.gitee.timer_1.0.0_arm64.deb
+Size: 44140
+MD5sum: 09997e1a0fab0a2916e8e6a03a736156
+SHA1: 1746412bec37b8618eea4369e385c31a3e2e2413
+SHA256: 7df9b926c6ae9bc77d06c2be7134146a37852b17ffa61e67a4b007a290b04add
+SHA512: e47398fd3794ff77e1128ef2fbb1c1bea70541b73503ae98fe7e47cc32969264fa44ff3a4ddafcf59d6bce104797faeea828da92e253cd7ab96e2218718a8a68
+Description: 一个基于 dtk 制作的一个倒计时软件
+
+Package: spark.gitee.timer
+Architecture: loongarch64
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi<3025613752@qq.com>
+Depends: libdtkcore5, libdtkwidget5, libdtkgui5, deepin-elf-verify (>= 1.1.1-1)
+Filename: ./s/spark.gitee.timer/spark.gitee.timer_1.0.0_loongarch64.deb
+Size: 43804
+MD5sum: 5c59c4d496ea5494c4c111bf11847b2b
+SHA1: 404f33b327279275f4395fa137bec0ba6cef3507
+SHA256: 1c6cb088a080a648570ea8adb0d9824e030e2c5da5ca2994870b8fef2c060d8b
+SHA512: 71d3a51bc7600b562b5c0f100a27ce9da6afe9be9b3e740f89eb88646b8a119dc2454e3f813f919b04e70147e26e4e065408792c2c5abb32b961f48543e68620
+Description: 一个基于 dtk 制作的一个倒计时软件
+
+Package: spark.gitee.timer
+Architecture: arm64
+Version: 1.0
+Maintainer: gfdgd xi<3025613752@qq.com>
+Depends: libdtkcore5, libdtkwidget5, libdtkgui5
+Filename: ./s/spark.gitee.timer/spark.gitee.timer_1.0_arm64.deb
+Size: 13448
+MD5sum: 998820f3f8486f703c079e2d13cf0b72
+SHA1: 2636cbd49068892a2feb485670fd32611362b490
+SHA256: 52901de0ded03120dd295ea2585b93056194c3345fc5dbb17bc4efedc1c2cd78
+SHA512: 15c626cff82d76dd3210091aca7c9dc04f311311774428dab76bebe8296f6b594b3908160048b2e5d2473fcbd3470bef1237c5f7e8c0d7ea46e89f7fa6622b80
+Description: 一个基于 dtk 制作的一个倒计时软件
+
+Package: spark.gitee.timer
+Architecture: amd64
+Version: 1.0
+Maintainer: gfdgd xi<3025613752@qq.com>
+Depends: libdtkcore5, libdtkwidget5, libdtkgui5
+Filename: ./s/spark.gitee.timer/spark.gitee.timer_1.0_amd64.deb
+Size: 12904
+MD5sum: 8a0c91bb5a338e30974ee348d1e38afe
+SHA1: 4ad66aab2ae73e9cad69451e3a7cfbab0dc9ce0d
+SHA256: 6e9948a1048499dd540770f14b1b00920dbfcbff06c6e7ab595044c88ad5e7cd
+SHA512: 60264bf8ae78f0d8fa720e29fcdd728242f7258c2356d4aaaa803e4ba2fad6df70189f8f0ec018540f92d66cf8b7422bc4d7a60d1dddeb79bb59a7a92871fde2
+Description: 一个基于 dtk 制作的一个倒计时软件
+
+Package: spark.gitee.timer
+Architecture: amd64
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi<3025613752@qq.com>
+Depends: libdtkcore5, libdtkwidget5, libdtkgui5, deepin-elf-verify (>= 1.1.1-1)
+Filename: ./s/spark.gitee.timer/spark.gitee.timer_1.0.0_amd64.deb
+Size: 43556
+MD5sum: 24e9c15b054eeab724c8b5271ebe2dae
+SHA1: 083736eac7dbd91700dfc2bc35bdfee983fba16b
+SHA256: 7bc77348e0311d1eabff4b3cbab5806a9a3202ada172ae6bf1496e2b435a8bc6
+SHA512: 66702228a4d4b7c1c38dda6b3916f9097aeb1b48364682f2d5ce9cb1203883da2ecae8e5d706f0f56d960a52ea469e83d32b3524bf7172bdf45d81920c1d60af
+Description: 一个基于 dtk 制作的一个倒计时软件
+
 Package: spark-deepin-wine5-application-packer
 Architecture: all
 Version: 1.0.1

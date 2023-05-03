@@ -1,0 +1,15 @@
+Package: spark.gitee.timer
+Architecture: arm64
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi<3025613752@qq.com>
+Depends: libdtkcore5, libdtkwidget5, libdtkgui5, deepin-elf-verify (>= 1.1.1-1)
+Filename: ./s/spark.gitee.timer/spark.gitee.timer_1.0.0_arm64.deb
+Size: 44140
+MD5sum: 09997e1a0fab0a2916e8e6a03a736156
+SHA1: 1746412bec37b8618eea4369e385c31a3e2e2413
+SHA256: 7df9b926c6ae9bc77d06c2be7134146a37852b17ffa61e67a4b007a290b04add
+SHA512: e47398fd3794ff77e1128ef2fbb1c1bea70541b73503ae98fe7e47cc32969264fa44ff3a4ddafcf59d6bce104797faeea828da92e253cd7ab96e2218718a8a68
+Description: 一个基于 dtk 制作的一个倒计时软件
+
