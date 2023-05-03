@@ -1,0 +1,25 @@
+Package: com.gitee.uengine.runner.spark.ubuntu
+Architecture: all
+Version: 1.6.2
+Priority: optional
+Section: utils
+Source: com.gitee.uengine.runner.spark.ubuntu
+Maintainer: gfdgd xi <3025613752@qq.com>, actionchen<917981399@qq.com>, 柚子<https://gitee.com/Limexb>, 为什么您不喜欢熊出没和阿布呢<https://weibo.com/u/7755040136>, 星空露光<https://gitee.com/Cynorkyle>, shenmo<jifengshenmo@outlook.com>
+Depends: deepin-elf-verify (>= 0.0.16.7-1), python3, python3-tk, python3-pip, aapt, python3-setuptools, deepin-terminal, curl, python3-pil, python3-pil.imagetk, python3-requests, adb, translate-shell, python3-xlib, fonts-noto-cjk, python3-numpy, python3-matplotlib, wget, inotify-tools, aria2
+Conflicts: spark-uengine-apk-builder, com.gitee.uengine.runner.spark.ubuntu
+Replaces: spark-uengine-runner
+Filename: ./c/com.gitee.uengine.runner.spark.ubuntu/com.gitee.uengine.runner.spark.ubuntu_1.6.2_all.deb
+Size: 1293900
+MD5sum: cea81dd885d2d0cbbac265d95da48a40
+SHA1: 7707b0b2053a3301580e1d9de024023927e3f56e
+SHA256: 38b67ae9f67bb25fef8b3712e198c5a1986089d62e264f9b39cc257ae99de50f
+SHA512: 3b13fa2ab926377aae06821dfbb5e509ff91d9c0f75e119eed98ae39f5b864a18e5a103ebb3cc0081535f677705c4a0b6978120f001cd5fdcd5557f521aa7a9e
+Homepage: [https://gitee.com/gfdgd-xi/uengine-runner, https://github.com/gfdgd-xi/uengine-runner]
+Description: UEngine 运行器，1.6.2 更新内容：
+ ※1、优化了 UEngine 运行器的英语翻译
+ ※2、新增加了可以打开或关闭第三方应用安装的功能（使用此功能后在UEngine里可以使用默认的APK安装程序安装应用，此操作需要使用程序的Adb补丁）
+ ※3、新增加了 UEngine 的 Ubuntu 安装程序
+ ※4、双包合一，只保留了UOS打包标准，可以从旧标准无缝升级（推荐使用本程序的升级程序进行升级）
+ 5、修复了本程序在 Ubuntu 上安装和卸载报错而无法继续的问题
+ 6、优化帮助/关于窗口在高分辨率电脑上显示不全的问题
+
