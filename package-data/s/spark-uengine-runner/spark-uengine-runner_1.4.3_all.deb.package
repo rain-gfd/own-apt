@@ -1,0 +1,16 @@
+Package: spark-uengine-runner
+Architecture: all
+Version: 1.4.3
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>, actionchen<917981399@qq.com>
+Depends: python3, python3-tk, python3-pip, aapt, uengine, python3-pil, python3-setuptools, deepin-terminal
+Conflicts: com.gitee.uengine.runner.spark, spark-uengine-apk-builder
+Filename: ./s/spark-uengine-runner/spark-uengine-runner_1.4.3_all.deb
+Size: 331068
+MD5sum: 1ea67e5557f5eff2f0f15441ff23bc66
+SHA1: c841aa2930edfafa483de304a71f6d60e794dca9
+SHA256: 13701b5d662742536a4a99f8f30288a204b5e2f51236962aa3fed1aa45e5fce5
+SHA512: d6d450a88aacb8c730aac074df5062a8da705b0093df8a62b1f3147f9a8aef6854e07973d006802b3ec11fc4145ac5f9f24f227785bdfaccf83ad0814f24fd38
+Homepage: [https://gitee.com/gfdgd-xi/uengine-runner, https://github.com/gfdgd-xi/uengine-runner]
+Description: UEngine Runner for deepin and UOS
+

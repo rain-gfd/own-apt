@@ -1,0 +1,311 @@
+Package: spark-uengine-runner
+Architecture: all
+Version: 1.2.2test
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Depends: python3, python3-tk, python3-pip, aapt, uengine
+Filename: ./s/spark-uengine-runner/spark-uengine-runner_1.2.2test_all.deb
+Size: 16780
+MD5sum: 0c6641f738dc53da4606ccbb0992ec75
+SHA1: 39bfc8a6b0eb6dc2e4cab7a564468f89227eb1f2
+SHA256: dfd96fc0205f14c34e5a0505cc8c0fa0d981b23358f60b80c5900e9aa077699c
+SHA512: 12ed1392c3c7a45f5352a3d5ec7d700ea026602868a8ef8893d4f30b72bbc7714bfe3a1a5d081fb2b003aaf807f99b4a27eddc94e075f30b755d4274a34e7413
+Homepage: https://gitee.com/gfdgd-xi/uengine-runner
+Description: gfdgd xi make's uengine runner
+
+Package: spark-uengine-runner
+Architecture: all
+Version: 1.5.2
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>, actionchen<917981399@qq.com>
+Depends: python3, python3-tk, python3-pip, aapt, uengine, python3-setuptools, deepin-terminal, curl, python3-pil, python3-pil.imagetk, python3-requests, adb, translate-shell, python3-xlib
+Conflicts: com.gitee.uengine.runner.spark, spark-uengine-apk-builder
+Filename: ./s/spark-uengine-runner/spark-uengine-runner_1.5.2_all.deb
+Size: 339584
+MD5sum: ecc0ebbe328099b175e1e9c3c13768f5
+SHA1: 437ce74b4e35be0bb74fb0d366d6e2c1e377365c
+SHA256: 21aa0f73511f7204c0b059ead34bb6c0725e653229d5113291962ac1e743f04b
+SHA512: 613e17ae249040f21efd5ecd7dd2bfba46c56d7d35b9f8f2bb6ce226c4f5b74c123f0131eb54d9eac5da548d4158fd07efb6cbf0e3606d4f0e48f9aa4cc2bd90
+Homepage: [https://gitee.com/gfdgd-xi/uengine-runner, https://github.com/gfdgd-xi/uengine-runner]
+Description: UEngine Runner for deepin and UOS
+
+Package: spark-uengine-runner
+Architecture: all
+Version: 1.3.2
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>, actionchen<917981399@qq.com>
+Depends: python3, python3-tk, python3-pip, aapt, uengine, python3-pil, python3-setuptools
+Filename: ./s/spark-uengine-runner/spark-uengine-runner_1.3.2_all.deb
+Size: 318616
+MD5sum: b2c053eff118191158f6ea92bfa729c9
+SHA1: b7f962854f4d6d05ec6aeda741367ca2ed548df9
+SHA256: e40ecdc4641fccda4558933637d3ef9918c261240c6733189312bc067f3245db
+SHA512: 062f67b35b65c764828f688a0c83548a50a1e1e75acf1d7173f3949deee0e5bfc750288f79a8a454466ca20f5d701a5fa3920fb41c8d7eaf62101b59d8eefa16
+Homepage: [https://gitee.com/gfdgd-xi/uengine-runner, https://github.com/gfdgd-xi/uengine-runner]
+Description: uengine runner for deepin and UOS
+
+Package: spark-uengine-runner
+Architecture: all
+Version: 1.5.3
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>, actionchen<917981399@qq.com>
+Depends: python3, python3-tk, python3-pip, aapt, uengine, python3-setuptools, deepin-terminal, curl, python3-pil, python3-pil.imagetk, python3-requests, adb, translate-shell, python3-xlib
+Conflicts: com.gitee.uengine.runner.spark, spark-uengine-apk-builder
+Filename: ./s/spark-uengine-runner/spark-uengine-runner_1.5.3_all.deb
+Size: 339796
+MD5sum: edbe8b307881814d616ddd142b96f823
+SHA1: 6231c169710b65c8c6ce762f0f927fee53a0f6d4
+SHA256: fb1150a689964ee52d38540af614d0630e86c873634bbf93beb8e7f9e8fe829b
+SHA512: bd6a60fc08e87b07f35a9a650494c9d9bc532d782e1fa8bf0478d3fd17ed8013b06e026598ea49a9ccb3f3a1e71133395cca46892188a5a02fb167be2019b51f
+Homepage: [https://gitee.com/gfdgd-xi/uengine-runner, https://github.com/gfdgd-xi/uengine-runner]
+Description: UEngine Runner for deepin and UOS
+
+Package: spark-uengine-runner
+Architecture: all
+Version: 1.2.0
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Depends: python3, python3-tk, adb, python3-pip, aapt
+Filename: ./s/spark-uengine-runner/spark-uengine-runner_1.2.0_all.deb
+Size: 17572
+MD5sum: 1a6a6b6dc5cfb0ddbaff8443e3a55e92
+SHA1: 7554abe2b0dca17c40b019d255d667d46a3b5de9
+SHA256: 024e7e66ba4fbf56e2e771be7d62fbe8854e61a8e9644f0f9c27daafc2ee433a
+SHA512: b5108f4aeb51b41c98c9d9e97a17934a51ea248a8528ad4283724c524e8ef9f056a7221dc0daf0da04d584b48db3e4ac469ee7095afe9a8bf24aab6f58332558
+Homepage: https://gitee.com/gfdgd-xi/uengine-runner
+Description: gfdgd xi make's uengine runner
+
+Package: spark-uengine-runner
+Architecture: all
+Version: 1.2.3
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Depends: python3, python3-tk, python3-pip, aapt, uengine, python3-pil, python3-pil.imagetk
+Filename: ./s/spark-uengine-runner/spark-uengine-runner_1.2.3_all.deb
+Size: 17092
+MD5sum: 92cd3e9b779043caecce9f7865189134
+SHA1: 48243c8bc8423ea85e3732a43bf704d6fe3335fb
+SHA256: fcd9eff9df3eab3e98cd038ae6bad0ca2f00a070545b34533600628c93823f56
+SHA512: 6e5eade37ec6f66138f03658973608f38da3b29e8f4f2bc00f2651cd849f31f930cb2c9006b7a34bec72728b7d810e997c42bc1b25630ed57a0a9dce027bbc5e
+Homepage: https://gitee.com/gfdgd-xi/uengine-runner
+Description: gfdgd xi make's uengine runner
+
+Package: spark-uengine-runner
+Architecture: all
+Version: 1.1.0
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Depends: python3, python3-tk, adb, python3-pip
+Filename: ./s/spark-uengine-runner/spark-uengine-runner_1.1.0_all.deb
+Size: 16152
+MD5sum: 70d9fd31a69df2bebd411e2e1840faf7
+SHA1: aa35dd1f5cac132a4675f7daa6d630e469d0bf3d
+SHA256: 8a4a676b33d6e26c4e8c77eb406f1e5e679468cd039e87626179a5ed6b963c1f
+SHA512: 66289a576add729a6c43db8035240d05eba6afff5a873927c11367790bc5b6b5160ca657b6276c91ef170f0d6e886ee14ef8ccb3e0d3cafb317230204dadd766
+Homepage: https://gitee.com/gfdgd-xi/uengine-runner
+Description: gfdgd xi make's uengine runner
+
+Package: spark-uengine-runner
+Architecture: all
+Version: 1.4.1
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>, actionchen<917981399@qq.com>
+Depends: python3, python3-tk, python3-pip, aapt, uengine, python3-pil, python3-setuptools
+Conflicts: com.gitee.uengine.runner.spark, spark-uengine-apk-builder
+Filename: ./s/spark-uengine-runner/spark-uengine-runner_1.4.1_all.deb
+Size: 327636
+MD5sum: ed119f86d351fbaa0776b4751123e2ed
+SHA1: c35400bd886ef24361c44c1fb7a5d2987935ede0
+SHA256: 004a7ebdc96d44df0ba1804aa02931230e8cf095fa582720109bf4d47b093191
+SHA512: 52dd1c44784c7ea28d28e8cc224dea91ba4754a1d31e461040c06c7554491956a116af65b03343bdc855a9cf63f11f8dc1f1e28e9a13161a4fc53eb20796dff8
+Homepage: [https://gitee.com/gfdgd-xi/uengine-runner, https://github.com/gfdgd-xi/uengine-runner]
+Description: uengine runner for deepin and UOS
+
+Package: spark-uengine-runner
+Architecture: all
+Version: 1.2.1
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Depends: python3, python3-tk, python3-pip, aapt, uengine
+Filename: ./s/spark-uengine-runner/spark-uengine-runner_1.2.1_all.deb
+Size: 17468
+MD5sum: d3e9069181083fd2a0935b6b7a15d070
+SHA1: dd8eb6b5bf1f9c59fe842785c6df429e3d2bebd9
+SHA256: d904f52e645098805d884575808876d8bc5fd9486d6208375a83356787268ff0
+SHA512: 321355171baa356a853317d374ceb75b947634e994978c47ae5e379cced3d4813abf47f3c97989a6d0cecaee08d3c0333d4dccc58fa84774bb99bb6b0c49a68d
+Homepage: https://gitee.com/gfdgd-xi/uengine-runner
+Description: gfdgd xi make's uengine runner
+
+Package: spark-uengine-runner
+Architecture: all
+Version: 1.4.2
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>, actionchen<917981399@qq.com>
+Depends: python3, python3-tk, python3-pip, aapt, uengine, python3-pil, python3-setuptools, deepin-terminal
+Conflicts: com.gitee.uengine.runner.spark, spark-uengine-apk-builder
+Filename: ./s/spark-uengine-runner/spark-uengine-runner_1.4.2_all.deb
+Size: 329968
+MD5sum: 22cf2ee0d99ccc4a750df6e95bd0ff83
+SHA1: c91b4970d7ede247bc7968422120527e6d4f294f
+SHA256: a0412ac8c8b80fc130f93537623a68ae3f2176e498ce3ccf6278ae89c980526e
+SHA512: 42434d219f9a97be8fdbefe406b77c7b61251e0906c43763c79e3fabe5c34da3548079a43b4a7c006989926b6bc21d9a3a7b38eaea1c33fcdfd2f8246ffd8dfc
+Homepage: [https://gitee.com/gfdgd-xi/uengine-runner, https://github.com/gfdgd-xi/uengine-runner]
+Description: UEngine Runner for deepin and UOS
+
+Package: spark-uengine-runner
+Architecture: all
+Version: 1.3.1
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>, actionchen<917981399@qq.com>
+Depends: python3, python3-tk, python3-pip, aapt, uengine, python3-pil, python3-setuptools
+Filename: ./s/spark-uengine-runner/spark-uengine-runner_1.3.1_all.deb
+Size: 314944
+MD5sum: bc40789081483186a8728e48049d8b78
+SHA1: 9fcade4af16d4bb0eaca4b793f22a4b42516c08c
+SHA256: 8ac391723722d53dd57777794a4257625afc3d4671b9987c13f8525369e3ee15
+SHA512: e47e8ed6cb874d7da8082b6a6360365a101de0d6744a37c5e78affdb2d1720dcb0351bed5bab41dd63459b6b365deac229e8ed64c1650fb1f6c69384b068cec8
+Homepage: https://gitee.com/gfdgd-xi/uengine-runner
+Description: gfdgd xi make's uengine runner
+
+Package: spark-uengine-runner
+Architecture: all
+Version: 1.6.0
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>, actionchen<917981399@qq.com>
+Depends: python3, python3-tk, python3-pip, aapt, uengine, python3-setuptools, deepin-terminal, curl, python3-pil, python3-pil.imagetk, python3-requests, adb, translate-shell, python3-xlib, fonts-noto-cjk, python3-numpy, python3-matplotlib, wget
+Conflicts: com.gitee.uengine.runner.spark, spark-uengine-apk-builder
+Filename: ./s/spark-uengine-runner/spark-uengine-runner_1.6.0_all.deb
+Size: 1277148
+MD5sum: eb88a82b3bdf1ab4f324f757a00250ee
+SHA1: 6a975687ff70d9fb800d82539c8ef7dc08261d8a
+SHA256: 089dc17428e3c75e17cb9fe822626e77291c5ff2a14529c8ac117f0e86d46693
+SHA512: 9ded2753ce49d2acf49881a18de70ebb27475355f880d98b0e296e3d7f351b1f679852ce03b22e87c1e20c10e111e8a60512f62aadaf9d672d6c4e0fa7b38434
+Homepage: [https://gitee.com/gfdgd-xi/uengine-runner, https://github.com/gfdgd-xi/uengine-runner]
+Description: UEngine Runner for deepin and UOS
+
+Package: spark-uengine-runner
+Architecture: all
+Version: 1.4.0
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>, actionchen<917981399@qq.com>
+Depends: python3, python3-tk, python3-pip, aapt, uengine, python3-pil, python3-setuptools
+Conflicts: com.gitee.uengine.runner.spark, spark-uengine-apk-builder
+Filename: ./s/spark-uengine-runner/spark-uengine-runner_1.4.0_all.deb
+Size: 325760
+MD5sum: 50c1542ae276dcc8f6b5313d9c6421db
+SHA1: e50c8f852cfa959edc5e7c7b1a75222b2d9cde98
+SHA256: dafaeba69a68e15541bcf7909a52afb0613ffdb713233189dd79c6f790029c2d
+SHA512: e6d9f5f64b0160ff19b0e0b60f186d4d9702cef9e7cd239215a6b74021325ed59bc5241e579c745973151c0646a74a98fe8adbd43af6ec8034394ab27a17c449
+Homepage: [https://gitee.com/gfdgd-xi/uengine-runner, https://github.com/gfdgd-xi/uengine-runner]
+Description: uengine runner for deepin and UOS
+
+Package: spark-uengine-runner
+Architecture: all
+Version: 1.5.1
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>, actionchen<917981399@qq.com>
+Depends: python3, python3-tk, python3-pip, aapt, uengine, python3-setuptools, deepin-terminal, curl, python3-pil, python3-pil.imagetk, python3-requests, adb, translate-shell, python3-xlib
+Conflicts: com.gitee.uengine.runner.spark, spark-uengine-apk-builder
+Filename: ./s/spark-uengine-runner/spark-uengine-runner_1.5.1_all.deb
+Size: 338720
+MD5sum: 5e0128420c4d91c6ae9da1202e27625b
+SHA1: 428235f3650888ab81f8f15a74da8f31d096b015
+SHA256: 4e6401898de1f41286c2814d74511e21267229b6294fa8b42e985e9dc4377cc5
+SHA512: 795c0090391f06ae34cfea4b362f57e735669108be4866e22d239f7dcc17ace300c80e568656b958f05c57622b11e0f6f82a6738a32e64b090a0abf16967d213
+Homepage: [https://gitee.com/gfdgd-xi/uengine-runner, https://github.com/gfdgd-xi/uengine-runner]
+Description: UEngine Runner for deepin and UOS
+
+Package: spark-uengine-runner
+Architecture: all
+Version: 1.5.0
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>, actionchen<917981399@qq.com>
+Depends: python3, python3-tk, python3-pip, aapt, uengine, python3-pil, python3-setuptools, deepin-terminal
+Conflicts: com.gitee.uengine.runner.spark, spark-uengine-apk-builder
+Filename: ./s/spark-uengine-runner/spark-uengine-runner_1.5.0_all.deb
+Size: 332536
+MD5sum: 7ff9614913580dfd4294225b56267c19
+SHA1: 0e3d775511a2bf8f267df8db843eb70344b5efa6
+SHA256: f5acba93a0348479c42c4c23d6f54031ff632adfab4382a3cd49f9cdec2159e4
+SHA512: d2802dbbd0435e77dca7a3d952d9e8bf053feb76618b794dd9df8f4224d9c5eaee6662499aa446d02bc74afa7c814b303cf694b2a34a456085cd10ba1582f799
+Homepage: [https://gitee.com/gfdgd-xi/uengine-runner, https://github.com/gfdgd-xi/uengine-runner]
+Description: UEngine Runner for deepin and UOS
+
+Package: spark-uengine-runner
+Architecture: all
+Version: 1.3.0
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Depends: python3, python3-tk, python3-pip, aapt, uengine, python3-pil
+Filename: ./s/spark-uengine-runner/spark-uengine-runner_1.3.0_all.deb
+Size: 21188
+MD5sum: aa2c174f9ec1d7e83479449f799b81cb
+SHA1: d5890d7b366443a84637f28f5f5f7f399dd25d18
+SHA256: 9e48ea4c100278c844ee9815a69589a9c2d2923bdd9b72b4cf0903913f29e9e2
+SHA512: 76f4a9effc814240bd3c6f9a34240e0a83186afdb1a63b614b2efc896b6bff36ca362c9e09f23e0ee097b94edc56c4d905fd23bb973a129601b81192d1374b2d
+Homepage: https://gitee.com/gfdgd-xi/uengine-runner
+Description: gfdgd xi make's uengine runner
+
+Package: spark-uengine-runner
+Architecture: all
+Version: 1.6.2Alpha2
+Priority: optional
+Section: oldlibs
+Maintainer: gfdgd xi <3025613752@qq.com>, actionchen<917981399@qq.com>, 柚子<https://gitee.com/Limexb>, 为什么您不喜欢熊出没和阿布呢<https://weibo.com/u/7755040136>, 星空露光<https://gitee.com/Cynorkyle>, shenmo<jifengshenmo@outlook.com>
+Depends: com.gitee.uengine.runner.spark(>=1.6.2Alpha1)
+Conflicts: spark-uengine-apk-builder
+Filename: ./s/spark-uengine-runner/spark-uengine-runner_1.6.2Alpha2_all.deb
+Size: 972
+MD5sum: 496bbe83b8cd755fd58d7220969099df
+SHA1: 5a5b44fb5694f0845816e52110484cc900b9f6a0
+SHA256: d6a3ea2884db65485ba26182378b0f0d1622b819006b8de9d7264cf8857cbb40
+SHA512: a785915ea366d77f4c68ab70f36deebbafb779b65998a0dd78849eab3a4acb1b4b10785a95d5ed1a56fe006582656ee1bd703d2ebf91581bb55f0646730da5b4
+Homepage: [https://gitee.com/gfdgd-xi/uengine-runner, https://github.com/gfdgd-xi/uengine-runner]
+Description: UEngine 运行器，此包只做升级过渡使用
+
+Package: spark-uengine-runner
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Depends: python3, python3-tk, adb, python3-pip
+Filename: ./s/spark-uengine-runner/spark-uengine-runner_1.0.0_all.deb
+Size: 15380
+MD5sum: b83527e66efe4d96587f5553277c51a4
+SHA1: 569dfa1abce7e2c3c11d9302c6eb47e8ec8ed1a2
+SHA256: 0964c5c1638bcb837d66371b998dc3163fa8c6f48b4a1f384890c8b1216a945f
+SHA512: 45ab0d71e3fac1b4cde44ebd17c47a49d22b9399bb681f3f02dfb38795490d7133ed69e97a592319a5bfe47a3ef4cda73f6e857541a0d510e418122617db9d46
+Homepage: https://gitee.com/gfdgd-xi/uengine-runner
+Description: gfdgd xi make's uengine runner
+
+Package: spark-uengine-runner
+Architecture: all
+Version: 1.2.2
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Depends: python3, python3-tk, python3-pip, aapt, uengine
+Filename: ./s/spark-uengine-runner/spark-uengine-runner_1.2.2_all.deb
+Size: 17084
+MD5sum: 8a877b2438038568499cfa2bdc93bdc8
+SHA1: 32574ad8d198640ca8706023030905cbda8dea3b
+SHA256: d9bb617a48c1f87acbb71fc10094016e75a88d2001cd51d41ddacdef4697ade9
+SHA512: 23d084e17b246d7ec7dfa3541ccf548b560a3cb2600ee0742ad766751782a62335205766f50e63638a2a9b4276fc1617e9fa656e4092e7becc7d0da13e780876
+Homepage: https://gitee.com/gfdgd-xi/uengine-runner
+Description: gfdgd xi make's uengine runner
+
+Package: spark-uengine-runner
+Architecture: all
+Version: 1.4.3
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>, actionchen<917981399@qq.com>
+Depends: python3, python3-tk, python3-pip, aapt, uengine, python3-pil, python3-setuptools, deepin-terminal
+Conflicts: com.gitee.uengine.runner.spark, spark-uengine-apk-builder
+Filename: ./s/spark-uengine-runner/spark-uengine-runner_1.4.3_all.deb
+Size: 331068
+MD5sum: 1ea67e5557f5eff2f0f15441ff23bc66
+SHA1: c841aa2930edfafa483de304a71f6d60e794dca9
+SHA256: 13701b5d662742536a4a99f8f30288a204b5e2f51236962aa3fed1aa45e5fce5
+SHA512: d6d450a88aacb8c730aac074df5062a8da705b0093df8a62b1f3147f9a8aef6854e07973d006802b3ec11fc4145ac5f9f24f227785bdfaccf83ad0814f24fd38
+Homepage: [https://gitee.com/gfdgd-xi/uengine-runner, https://github.com/gfdgd-xi/uengine-runner]
+Description: UEngine Runner for deepin and UOS
+

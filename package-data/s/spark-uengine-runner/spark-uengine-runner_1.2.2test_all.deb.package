@@ -1,0 +1,15 @@
+Package: spark-uengine-runner
+Architecture: all
+Version: 1.2.2test
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Depends: python3, python3-tk, python3-pip, aapt, uengine
+Filename: ./s/spark-uengine-runner/spark-uengine-runner_1.2.2test_all.deb
+Size: 16780
+MD5sum: 0c6641f738dc53da4606ccbb0992ec75
+SHA1: 39bfc8a6b0eb6dc2e4cab7a564468f89227eb1f2
+SHA256: dfd96fc0205f14c34e5a0505cc8c0fa0d981b23358f60b80c5900e9aa077699c
+SHA512: 12ed1392c3c7a45f5352a3d5ec7d700ea026602868a8ef8893d4f30b72bbc7714bfe3a1a5d081fb2b003aaf807f99b4a27eddc94e075f30b755d4274a34e7413
+Homepage: https://gitee.com/gfdgd-xi/uengine-runner
+Description: gfdgd xi make's uengine runner
+

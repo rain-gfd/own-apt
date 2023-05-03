@@ -1,0 +1,17 @@
+Package: spark-uengine-runner
+Architecture: all
+Version: 1.6.2Alpha2
+Priority: optional
+Section: oldlibs
+Maintainer: gfdgd xi <3025613752@qq.com>, actionchen<917981399@qq.com>, 柚子<https://gitee.com/Limexb>, 为什么您不喜欢熊出没和阿布呢<https://weibo.com/u/7755040136>, 星空露光<https://gitee.com/Cynorkyle>, shenmo<jifengshenmo@outlook.com>
+Depends: com.gitee.uengine.runner.spark(>=1.6.2Alpha1)
+Conflicts: spark-uengine-apk-builder
+Filename: ./s/spark-uengine-runner/spark-uengine-runner_1.6.2Alpha2_all.deb
+Size: 972
+MD5sum: 496bbe83b8cd755fd58d7220969099df
+SHA1: 5a5b44fb5694f0845816e52110484cc900b9f6a0
+SHA256: d6a3ea2884db65485ba26182378b0f0d1622b819006b8de9d7264cf8857cbb40
+SHA512: a785915ea366d77f4c68ab70f36deebbafb779b65998a0dd78849eab3a4acb1b4b10785a95d5ed1a56fe006582656ee1bd703d2ebf91581bb55f0646730da5b4
+Homepage: [https://gitee.com/gfdgd-xi/uengine-runner, https://github.com/gfdgd-xi/uengine-runner]
+Description: UEngine 运行器，此包只做升级过渡使用
+
