@@ -1,0 +1,29 @@
+Package: com.gitee.uengine.runner.spark
+Architecture: all
+Version: 1.8.0
+Priority: optional
+Section: utils
+Source: com.gitee.uengine.runner.spark
+Maintainer: gfdgd xi <3025613752@qq.com>, actionchen<917981399@qq.com>, 柚子<https://gitee.com/Limexb>, 为什么您不喜欢熊出没和阿布呢<https://weibo.com/u/7755040136>, 星空露光<https://gitee.com/Cynorkyle>, shenmo<jifengshenmo@outlook.com>
+Depends: python3, python3-tk, python3-pip, aapt, python3-setuptools, deepin-terminal, curl, python3-pil, python3-requests, adb, fonts-noto-cjk, python3-numpy, wget, inotify-tools, aria2, python3-pyqt5
+Recommends: python3-matplotlib, uengine, deepin-elf-verify (>= 0.0.16.7-1)
+Conflicts: spark-uengine-apk-builder, com.gitee.uengine.runner.spark.ubuntu
+Replaces: spark-uengine-runner, com.gitee.uengine.runner.spark.ubuntu
+Filename: ./c/com.gitee.uengine.runner.spark/com.gitee.uengine.runner.spark_1.8.0_all.deb
+Size: 1166636
+MD5sum: c6af82571f06d5dbd52b348d892629da
+SHA1: 839b62be4d9f720b34912976f2fa7044e772eb67
+SHA256: 6e8bfb309ddb4ff4dc04e89d286fde6e4c625062aa06e1f5977373a0757e2214
+SHA512: 0fe59f870a4bcfbea5ff3083f701f18772ed7c1b22b59fadaee2ad813530992e02c82c9a5700ad8a85d783535c945c0b3487ad530965a3ef4f261fb804ec2f51
+Homepage: [https://gitee.com/gfdgd-xi/uengine-runner, https://github.com/gfdgd-xi/uengine-runner, https://www.gitlink.org.cn/gfdgd_xi/uengine-runner]
+Description: UEngine 运行器，1.8.0 更新内容：
+ ※1、程序界面大部分由 Tkinter 转 PyQt5
+ ※2、添加了自动/手动配置 UEngine 窗口大小文件（自动需要在设置里手动开启，配置窗口的配置文件需要 Root）
+ ※3、增加了安装/卸载失败后的提示
+ ※4、补回谢明名单
+ ※5、支持免密安装/卸载 APK
+ 6、pip 更换华为源，提升下载速度
+ 7、新增主题功能
+ 8、支持在安装 APK 后手动指定分类（手动指定需要在设置里手动开启）
+ 开发/参与者：gfdgd xi <3025613752@qq.com>, actionchen<917981399@qq.com>, 柚子<https://gitee.com/Limexb>, 为什么您不喜欢熊出没和阿布呢<https://weibo.com/u/7755040136>, 星空露光<https://gitee.com/Cynorkyle>, shenmo<jifengshenmo@outlook.com>
+

@@ -1,0 +1,29 @@
+Package: com.gitee.uengine.runner.spark
+Architecture: all
+Version: 1.8.2
+Priority: optional
+Section: utils
+Source: com.gitee.uengine.runner.spark
+Maintainer: gfdgd xi <3025613752@qq.com>, actionchen<917981399@qq.com>, 柚子<https://gitee.com/Limexb>, 为什么您不喜欢熊出没和阿布呢<https://weibo.com/u/7755040136>, 星空露光<https://gitee.com/Cynorkyle>, shenmo<jifengshenmo@outlook.com>
+Installed-Size: 1600
+Depends: python3, python3-tk, python3-pip, aapt, python3-setuptools, deepin-terminal, curl, python3-pil, python3-requests, adb, fonts-noto-cjk, python3-numpy, wget, inotify-tools, aria2, python3-pyqt5, python3-matplotlib, python3-urllib3
+Recommends: uengine, deepin-elf-verify (>= 0.0.16.7-1)
+Conflicts: spark-uengine-apk-builder, com.gitee.uengine.runner.spark.ubuntu
+Replaces: spark-uengine-runner, com.gitee.uengine.runner.spark.ubuntu
+Filename: ./c/com.gitee.uengine.runner.spark/com.gitee.uengine.runner.spark_1.8.2_all.deb
+Size: 873164
+MD5sum: 41311f80d5f748680d81e2b71a28d672
+SHA1: 6a37786e0ed969f40f669df1302f3ff4cbd293e3
+SHA256: 892c1741aafb974fb71c387e17ac63bd57242b965925a1df62dfc6f963247203
+SHA512: 8b7ac3c75686d7d68ebc8a9e8d2f68f546e9e583bac78eef89c19edbdb9db3ba1356975c4e1a12873d7d0633ceedd440a55c0e7b7e894de7cf3e6d8053638352
+Homepage: [https://gitee.com/gfdgd-xi/uengine-runner, https://github.com/gfdgd-xi/uengine-runner, https://www.gitlink.org.cn/gfdgd_xi/uengine-runner]
+Description: UEngine 运行器，1.8.2 更新内容：
+ ※1、重新恢复 uengine-installer For Ubuntu
+ ※2、修复 postrm 的问题
+ ※3、修复“添加UEngine应用快捷方式出现问题”的问题
+ ※4、修复打包器无参数问题
+ ※5、打包器默认勾选“使用 uengine-dc 前缀”
+ 6、修复Python主版本号判断时潜在的问题（By Bail）
+ 7、新增部分资源入口
+ 开发/参与者：gfdgd xi <3025613752@qq.com>, actionchen<917981399@qq.com>, 柚子<https://gitee.com/Limexb>, 为什么您不喜欢熊出没和阿布呢<https://weibo.com/u/7755040136>, 星空露光<https://gitee.com/Cynorkyle>, shenmo<jifengshenmo@outlook.com>
+

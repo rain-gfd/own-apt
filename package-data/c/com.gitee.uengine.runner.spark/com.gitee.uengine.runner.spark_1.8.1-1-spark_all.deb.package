@@ -1,0 +1,28 @@
+Package: com.gitee.uengine.runner.spark
+Architecture: all
+Version: 1.8.1-1-spark
+Priority: optional
+Section: utils
+Source: com.gitee.uengine.runner.spark
+Maintainer: gfdgd xi <3025613752@qq.com>, actionchen<917981399@qq.com>, 柚子<https://gitee.com/Limexb>, 为什么您不喜欢熊出没和阿布呢<https://weibo.com/u/7755040136>, 星空露光<https://gitee.com/Cynorkyle>, shenmo<jifengshenmo@outlook.com>
+Installed-Size: 1600
+Depends: python3, python3-tk, python3-pip, aapt, python3-setuptools, deepin-terminal, curl, python3-pil, python3-requests, adb, fonts-noto-cjk, python3-numpy, wget, inotify-tools, aria2, python3-pyqt5, python3-matplotlib, python3-urllib3
+Recommends: uengine, deepin-elf-verify (>= 0.0.16.7-1)
+Conflicts: spark-uengine-apk-builder, com.gitee.uengine.runner.spark.ubuntu
+Replaces: spark-uengine-runner, com.gitee.uengine.runner.spark.ubuntu
+Filename: ./c/com.gitee.uengine.runner.spark/com.gitee.uengine.runner.spark_1.8.1-1-spark_all.deb
+Size: 872500
+MD5sum: 8e240d73b5710f4e2f54f1b2ef53510b
+SHA1: f2c02a2b3eac5263b5568ff6fb766bdcbb805061
+SHA256: 9e56fe1f3c35831c96f0a6d87b0e464002959a5365f609e0b7b8b97ba1525eff
+SHA512: e6cbd15cbb36aed21ef4bfeb4556c59dbeb33af874514c58bcd9820ac5ccedafa307d7bc0ec669c9fab09b12a0de258dec11ba932362ae30bdff61d171c2b1e1
+Homepage: [https://gitee.com/gfdgd-xi/uengine-runner, https://github.com/gfdgd-xi/uengine-runner, https://www.gitlink.org.cn/gfdgd_xi/uengine-runner]
+Description: UEngine 运行器，1.8.1-1 更新内容：
+ 1、修复依赖缺失导致程序无法开启的问题
+ 1.8.1更新内容：
+ ※1、修复在 APK 详细信息中图标可能过大导致无法正常使用的问题
+ ※2、修复 APK 路径带空格无法正常安装的问题
+ 3、修复打包器打包的 APK 带下划线“_”无法正常打包的问题
+ 4、修复打包器下方命令返回过多空白行的问题
+ 开发/参与者：gfdgd xi <3025613752@qq.com>, actionchen<917981399@qq.com>, 柚子<https://gitee.com/Limexb>, 为什么您不喜欢熊出没和阿布呢<https://weibo.com/u/7755040136>, 星空露光<https://gitee.com/Cynorkyle>, shenmo<jifengshenmo@outlook.com>
+

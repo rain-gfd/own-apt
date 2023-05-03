@@ -1,0 +1,18 @@
+Package: com.gitee.uengine.runner.spark
+Architecture: all
+Version: 1.4.2
+Priority: optional
+Section: utils
+Source: com.gitee.uengine.runner.spark
+Maintainer: gfdgd xi <3025613752@qq.com>, actionchen<917981399@qq.com>
+Depends: deepin-elf-verify (>= 0.0.16.7-1), python3, python3-tk, python3-pip, aapt, adb, python3-pil, python3-setuptools, uengine, deepin-terminal
+Conflicts: spark-uengine-runner, spark-uengine-apk-builder
+Filename: ./c/com.gitee.uengine.runner.spark/com.gitee.uengine.runner.spark_1.4.2_all.deb
+Size: 330644
+MD5sum: af180eed88b588688a25f0665dc75dc8
+SHA1: 3952bbca0f53437210c25a2334e7ca68aadc99f8
+SHA256: 19a53478cbb675393de3a6f952ce112ec37a4aa80fea22394467ac2b2fbb28b3
+SHA512: 131641b9094c02128840d269e66159bfd25bdc9e3e19d9ff50487db788107771c83ba4e01969f655fce6707193a5d7224fbfecda9542321588f180ecb2b4f7de
+Homepage: [https://gitee.com/gfdgd-xi/uengine-runner, https://github.com/gfdgd-xi/uengine-runner]
+Description: UEngine Runner for deepin and UOS
+

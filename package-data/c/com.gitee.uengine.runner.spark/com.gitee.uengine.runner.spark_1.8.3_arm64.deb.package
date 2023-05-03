@@ -1,0 +1,21 @@
+Package: com.gitee.uengine.runner.spark
+Architecture: arm64
+Version: 1.8.3
+Priority: optional
+Section: utils
+Source: com.gitee.uengine.runner.spark
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 1544
+Depends: python3, python3-tk, python3-pip, aapt, python3-setuptools, deepin-terminal, curl, python3-pil, python3-requests, adb, fonts-noto-cjk, python3-numpy, wget, inotify-tools, aria2, python3-pyqt5, python3-matplotlib, python3-urllib3, deepin-elf-verify (>= 1.1.1-1)
+Recommends: uengine, deepin-elf-verify (>= 0.0.16.7-1)
+Conflicts: spark-uengine-apk-builder, com.gitee.uengine.runner.spark.ubuntu
+Replaces: spark-uengine-runner, com.gitee.uengine.runner.spark.ubuntu
+Filename: ./c/com.gitee.uengine.runner.spark/com.gitee.uengine.runner.spark_1.8.3_arm64.deb
+Size: 882652
+MD5sum: 70287baad314b79109b77126e7015685
+SHA1: 5ceb1d2158bc35f6cf97b99adffe266b523e2a7f
+SHA256: 4777d00a26234a0144ab402a21432147f027c3cc66100a6fa2659cf5b4d4fa5c
+SHA512: 3d487f881eb42b58e71d66277e458215598d7591632870aeb7b87447567212838d2b36955075b5023a156d4207880f6b472a10476b3ead55a523d54f66b59124
+Homepage: https://gitee.com/gfdgd-xi/uengine-runner
+Description: UEngine 运行器，1.8.3 更新内容： ※1、修复安装/打包程序时出现找不到图标的问题； ※2、修复部分无法正确获取程序中文名和 Activity 的问题 ※3、修复在运行器内打开打包器不会自动填充打包器 APK 路径 ※4、问题反馈新增论坛反馈入口
+
