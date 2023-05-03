@@ -1,0 +1,16 @@
+Package: spark-deepin-wine5-application-packer
+Architecture: all
+Version: 1.0.1
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 40
+Depends: python3, python3-tk, python3-pip
+Filename: ./s/spark-deepin-wine5-application-packer/spark-deepin-wine5-application-packer_1.0.1_all.deb
+Size: 42224
+MD5sum: 4ef08a13cac6c0b0c43fa0ebce83510f
+SHA1: dc626de615e205c59151dbf6a8115e3d6ac8f493
+SHA256: 6469ec69f15ebcb7d9c9f3325c18b10a4e929b4f44330e9f33b40c28447a010c
+SHA512: 23f3a16919c6bf8a0e1598a629f84fc9e7fca136822be5bf24fb1907d10b6abd696330605e59aad6e74c42dfceb5eca1459c9a5e75de3e9cebc8d0f6d7882872
+Homepage: https://gitee.com/gfdgd-xi/deep-wine5-application-packer
+Description: gfdgd xi make's deepin-wine5 application packer
+

@@ -1,0 +1,33 @@
+Package: spark-deepin-wine-runner
+Architecture: all
+Version: 2.3.0
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>, 为什么您不喜欢熊出没和阿布呢
+Installed-Size: 26576
+Depends: python3, python3-pil, python3-pil.imagetk, python3-pyquery, aria2, curl, unrar, unzip, python3-requests, fakeroot, bash, python3-pyqt5, python3-psutil, deepin-terminal | mate-terminal | gnome-terminal | xfce4-terminal
+Recommends: winbind, wimtools
+Conflicts: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
+Replaces: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
+Filename: ./s/spark-deepin-wine-runner/spark-deepin-wine-runner_2.3.0_all.deb
+Size: 20151164
+MD5sum: 44f456ef565ddb7d81036a913df20fe2
+SHA1: debf4d8ca4a4362ad2880ea44bf66f7d43b273ba
+SHA256: fd8d47c2b13c21bd22ec4a1a6120181391010b66cc71feaafc4857372a5b5228
+SHA512: d338aa60ae338291daca09e0da519915d395f026b477fea64338714d769527415d608064abb8b1aff9066ba3ab8f94cbd20bdb9aa002888334404eca78d97626
+Homepage: https://gitee.com/gfdgd-xi/deep-wine-runner, https://github.com/gfdgd-xi/deep-wine-runner, https://gitlink.org.cn/gfdgd_xi/deep-wine-runner
+Description: gfdgd xi、为什么您不喜欢熊出没和阿布呢 制作的 wine 运行器
+ 2.3.0 更新内容：
+ ※1、自动配置解释器支持 bash 语法（新版底层调用 bash，旧版任然使用旧版解析引擎）
+ ※2、修复缺失 wimtools 依赖导致无法正常安装的问题
+ ※3、修复基于生态适配活动脚本打包器对话框过多影响使用的问题，并支持指定不同的包名和容器名
+ ※4、7z 文件解压不会自动替换文件然后卡死以及因此导致程序闪退的问题
+ ※5、修复安装更多 Wine 终端调用问题和图标问题
+ ※6、支持 openkylin
+ 7、支持通过 exe 路径自动生成 Wine 容器路径
+ 8、支持禁用/启用 wine 容器是否生成快捷方式的功能以及启用/禁用程序崩溃提示对话框
+ 9、支持设置 wine 容器代理
+ 10、自动配置脚本支持使用 --help 参数查看帮助
+ 更新时间：2022年10月02日
+ 作者：gfdgd xi、为什么您不喜欢熊出没和阿布呢
+

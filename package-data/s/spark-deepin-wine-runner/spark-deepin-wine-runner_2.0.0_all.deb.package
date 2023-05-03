@@ -1,0 +1,28 @@
+Package: spark-deepin-wine-runner
+Architecture: all
+Version: 2.0.0
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>, 为什么您不喜欢熊出没和阿布呢
+Installed-Size: 23500
+Depends: python3, python3-pil, python3-pil.imagetk, python3-pyquery, deepin-terminal, aria2, curl, unrar, unzip, python3-requests, fakeroot, bash, python3-pyqt5, toilet
+Conflicts: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer
+Replaces: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer
+Filename: ./s/spark-deepin-wine-runner/spark-deepin-wine-runner_2.0.0_all.deb
+Size: 19017048
+MD5sum: 0be61b0cde56a075c7929d9cd22dd5f2
+SHA1: 6b7f1b2c75e2b3a8e27579978c5be2e9be6c49d0
+SHA256: 0b6801688da7b64e0d0a50834b9dcc8081d6bcd7ca415ff3d081102b63eae84b
+SHA512: 39c963e60faa982c73d8caf02f2a213cff7228732eb13ebf526d235dec85621c0c4e55dc2b48ebcd7a47beb5b220d934f9a992e283427a7e367fc9f3931d4a53
+Homepage: https://gitee.com/gfdgd-xi/deep-wine-runner
+Description: gfdgd xi、为什么您不喜欢熊出没和阿布呢 制作的 wine 运行器
+ 更新内容：
+ ※1、界面大改造，从使用 Tkinter 改为 Qt，参考了 @134******28 和 @sgb76 提供的设计方案和代码
+ ※2、添加了基于 UOS 生态适配活动打包脚本的打包器，以及基于 Virtualbox 的简易 Windows 镜像安装工具
+ ※3、将 pip 由阿里源改为华为源，提升下载安装速度，并删除使用 pip 下载库的功能（已不需要，废弃）
+ 4、添加 @delsin 和 @神末shenmo 建议的 postrm 脚本
+ 5、优化多屏窗口居中问题
+ 6、修复 1.6.0 程序无法保存设置的问题
+ 7、修复 1.6.0 的更新程序无法正常更新的问题
+ 8、升级 Geek Uninstaller 版本
+ 作者：gfdgd xi、为什么您不喜欢熊出没和阿布呢
+

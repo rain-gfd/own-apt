@@ -1,0 +1,16 @@
+Package: spark-deepin-wine-runner
+Architecture: all
+Version: 1.1
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 40
+Depends: python3, python3-tk
+Filename: ./s/spark-deepin-wine-runner/spark-deepin-wine-runner_1.1_all.deb
+Size: 3340
+MD5sum: bcdb9c75116a98def21274e972697488
+SHA1: 054611aa30423253e4b5120cb46a64c8ac35d914
+SHA256: 2aa8f84fccfc28ee2418f562361db62022b48bd84a1862f16b86fbeb4a744b0f
+SHA512: 0bfd2770d7aeebc4ac66c5b7e8ffd8e2d82a36a8858203f505a25eb896049ac616937dfb5b2c1f19890779f67750f36826a749e54559171dc6a3e79668400b75
+Homepage: https://gitee.com/gfdgd-xi/deep-wine-runner
+Description: gfdgd xi make's deepin-wine runner
+

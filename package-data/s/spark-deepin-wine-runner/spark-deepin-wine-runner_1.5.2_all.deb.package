@@ -1,0 +1,22 @@
+Package: spark-deepin-wine-runner
+Architecture: all
+Version: 1.5.2
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>, 为什么您不喜欢熊出没和阿布呢
+Depends: python3, python3-tk, python3-pip, python3-pil, python3-pil.imagetk, python3-pyquery, deepin-terminal, aria2, curl
+Filename: ./s/spark-deepin-wine-runner/spark-deepin-wine-runner_1.5.2_all.deb
+Size: 5310836
+MD5sum: 1743679c244790eaaa91f5a2611ebd26
+SHA1: 71dcda13fb64393ebf97539f98855a6085fa60d8
+SHA256: 79fabad729e8eb498e02d1e5b13b3ae2f01bb1f9c1b76bdb9bc7d844c91354f3
+SHA512: 60a1f635f09bb09421df4341f2aceefd8690e2e36c2f3d718a4f3ed98166e8eb8ec3e925cc08b4cb770dcda562e463e57a908940d87fcca56e7e4b42ae678a9f
+Homepage: https://gitee.com/gfdgd-xi/deep-wine-runner
+Description: gfdgd xi 制作的 wine 运行器
+ 更新内容：
+ ※1、添加并翻新了 deepin-wine5 打包器，改为 wine 打包器，支持常见 wine 的打包
+ ※2、新增 Visual Studio C++ 的安装程序
+ ※3、新增从系统安装镜像提取 DLL 到 wine 容器的功能（当前只支持 Windows XP 和 Windows Server 2003 的官方安装镜像）
+ 4、修复了安装星火应用商店的 wine 运行器右键打开方式没有 wine 运行器选项的问题
+ 5、新增脚本，优化 deepin terminal 调用本程序脚本显示不佳的问题
+ 作者：gfdgd xi、为什么您不喜欢熊出没和阿布呢
+

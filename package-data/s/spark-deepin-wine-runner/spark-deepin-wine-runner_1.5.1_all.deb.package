@@ -1,0 +1,26 @@
+Package: spark-deepin-wine-runner
+Architecture: all
+Version: 1.5.1
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>, 为什么您不喜欢熊出没和阿布呢
+Depends: python3, python3-tk, python3-pip, python3-pil, python3-pil.imagetk, python3-pyquery, deepin-terminal, aria2, curl
+Filename: ./s/spark-deepin-wine-runner/spark-deepin-wine-runner_1.5.1_all.deb
+Size: 2257932
+MD5sum: a4591ea5d1b65abe9704ee539a4746ec
+SHA1: 2dd28199b7ef0c2011bf91cc6eaacdd037a8f9c7
+SHA256: 61c990e725b5e785bc5bffc10e5f92bbdecee364e19f244a5c0371d5a4837dc1
+SHA512: 0b0a6299133b40253aa7f58e1dcb247b70b7797b8617a5cd2eec0ed43cea825cf79897cbf663e1370e61421f7fc0e5daa95847e890151f45f8b2d358d25eef2a
+Homepage: https://gitee.com/gfdgd-xi/deep-wine-runner
+Description: gfdgd xi 制作的 wine 运行器
+ 更新内容：
+ ※1、支持打开 spark-wine7-devel 的专门缩放设置（如未安装则此按钮禁用）
+ ※2、支持提取选择的 exe 文件的图标
+ ※3、支持向指定的 wine 容器安装 mono、gecko、.net framework（此功能在菜单栏“Wine”中，卸载只需要使用程序的卸载按钮打开 Geek Uninstaller 即可）
+ ※4、支持指定特定的 wine 容器调用 winetricks
+ ※5、在没有指定 wine 容器的情况下，将自动设置为 ~/.wine
+ 6、新增 ukylin-wine
+ 7、将默认选择的 wine 改为 deepin-wine6 stable
+ 8、支持打开指定容器的 winecfg、winver、regedit、taskmgr
+ 9、双击使用 wine 运行器打开 exe（不知道能不能生效）
+ 作者：gfdgd xi、为什么您不喜欢熊出没和阿布呢
+
