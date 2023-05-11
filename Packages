@@ -23,6 +23,19 @@ Description: UEngine 运行器，1.6.2 更新内容：
  5、修复了本程序在 Ubuntu 上安装和卸载报错而无法继续的问题
  6、优化帮助/关于窗口在高分辨率电脑上显示不全的问题
 
+Package: com.gitee.markdown.spark
+Architecture: amd64
+Version: 1.0
+Maintainer: gfdgd xi<3025613752@qq.com>
+Depends:
+Filename: ./c/com.gitee.markdown.spark/com.gitee.markdown.spark_1.0_amd64.deb
+Size: 9316
+MD5sum: c4053921ef47850ba56f1d71b78ca799
+SHA1: 764ccd1464bcde966ae39318b85845c76992d7b4
+SHA256: 4442ea8f557d747bcc14d804c9037edec6afe27cb110b7b7a7492b7787d48c37
+SHA512: a1af3854698fdb6b7d9c1dfce8b26d8c5fb511dd960eb601211a87681f84213f834f9a8c76471872fb586637a52ac37b14ad6d29909f599d2583de333609b6a8
+Description: 一个基于 Qt 制作的一个 markdown 实时转换软件
+
 Package: com.gitee.uengine.runner.spark
 Architecture: all
 Version: 1.8.1
@@ -570,6 +583,38 @@ Description: UEngine 运行器，1.8.2 更新内容：
  7、新增部分资源入口
  开发/参与者：gfdgd xi <3025613752@qq.com>, actionchen<917981399@qq.com>, 柚子<https://gitee.com/Limexb>, 为什么您不喜欢熊出没和阿布呢<https://weibo.com/u/7755040136>, 星空露光<https://gitee.com/Cynorkyle>, shenmo<jifengshenmo@outlook.com>
 
+Package: voice-broadcast-time
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 40
+Depends: python3, python3-tk, espeak
+Filename: ./v/voice-broadcast-time/voice-broadcast-time_1.0.0_all.deb
+Size: 2260
+MD5sum: 9849e90aad0f3afef1f9e5e09f1dc3bd
+SHA1: 4401e10197dcbf2c1d5be08afb84b1ee5eaa1e85
+SHA256: 9afe2144cae2596845372759c6956c446e15d04c2368552c32d17369e743e630
+SHA512: 8866705001b45373d0a6d22563c633b1020216479cab40520bc8acc405cf680a52d3c95edd29c6be0a16403408942c110e11bb9dac3924fce6e4433a7c70b698
+Homepage: https://gitee.com/gfdgd-xi/voice-broadcast-time
+Description: gfdgd xi make's voice broadcast time
+
+Package: voice-broadcast-time
+Architecture: all
+Version: 1.0.1
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 40
+Depends: python3, python3-tk, espeak
+Filename: ./v/voice-broadcast-time/voice-broadcast-time_1.0.1_all.deb
+Size: 2256
+MD5sum: 57120c5e3a16ced80be4ea1bb2e7deec
+SHA1: 8d9ff8f36a7d2b85fba76477f3d38204b5589360
+SHA256: 637843766c70c4cba9c996811649829a65713704e75d4d47e1c008c1c915978a
+SHA512: 14d94f495aa65d5c6e19c153d530b7a3b63115ff0e49120eac8e88a455a577e49e37dbdcb29089847d4b3d92449bb19775dc3defbc08b07413c5baaedd19cd0f
+Homepage: https://gitee.com/gfdgd-xi/voice-broadcast-time
+Description: gfdgd xi make's voice broadcast time
+
 Package: spark.gitee.timer
 Architecture: arm64
 Version: 1.0.0
@@ -672,6 +717,19 @@ SHA256: 98e93c9c712ab3eaf5293f77427355dc1bfbf27a9eaa7c5f80378844e56e782f
 SHA512: ea70d7d3ce4884f2c8a7aacba8db117bdb65da1abf708b9d59e539c0a19eb7161d166782b04d646a461e8cb93692f697604dfbd66f3e9687261ec77a89836b98
 Homepage: https://gitee.com/gfdgd-xi/deep-wine5-application-packer
 Description: gfdgd xi make's deepin-wine5 application packer
+
+Package: spark-simple-remote-desktop-accessor
+Architecture: amd64
+Version: 1.0
+Maintainer: gfdgd xi<3025613752@qq.com>
+Depends: libdtkcore5, libdtkwidget5, libdtkgui5, rdesktop
+Filename: ./s/spark-simple-remote-desktop-accessor/spark-simple-remote-desktop-accessor_1.0_amd64.deb
+Size: 483964
+MD5sum: cf8292034742770dc74d2a7c57f4807c
+SHA1: 886104c00f897cfabe08cc76b517e25a17fa72e9
+SHA256: c6710e71b09eecb781c764aded7b308534c542f7985de4bf22cc8d006ead61c4
+SHA512: b3859c2f29ddaaa47a278b53acf2fce753b0c95cd71223dbb9b7d4df1f96d7cb2dbc25308197db5082d7662296c3a1ca857f5253b33c3312be7ad38a1fb9cb5c
+Description: 一个基于 dtk 制作的一个简易远程桌面连接软件
 
 Package: spark-simple-remote-desktop-accessor
 Architecture: loongarch64
@@ -923,6 +981,36 @@ Homepage: https://www.spark-app.store/
 Description: Spark Store
  A community powered app store, based on DTK.
 
+Package: spark-optical-drive-tray-control
+Architecture: all
+Version: 1.0.2
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Depends:
+Filename: ./s/spark-optical-drive-tray-control/spark-optical-drive-tray-control_1.0.2_all.deb
+Size: 65332784
+MD5sum: 828ef7fe4c738869365fb8db9f75acba
+SHA1: 63f296cc3204adbb691b5bf6054707daaf3412e4
+SHA256: 60bb411104e34419483c90aa0c5a5351a0b0fddd6d6122d350b5a201c106d729
+SHA512: b5fdb9963d7fd77db03899dda8f5f8fddc5b39d5b34f24b4ebf071a1ce61d4dfd3b323913f519da74476a72185cbc09406d9be910cc9f125ee6418529e0d0e1f
+Homepage: https://gitee.com/gfdgd-xi/optical-drive-tray-control
+Description: 一款基于 Python3 的 PyQt 制作成的光驱托盘控制软件
+
+Package: spark-optical-drive-tray-control
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Depends: python3, python3-pip
+Filename: ./s/spark-optical-drive-tray-control/spark-optical-drive-tray-control_1.0.0_all.deb
+Size: 49656
+MD5sum: ecfbc72baf3c5f6f4fdf8cf6fb073a08
+SHA1: 99640a250e7dcb1eccd3b6f639404f6d3e5488dd
+SHA256: 2e7928d3c50a36ae99853a66faf7c5fc54540752986e1b6b946b64e79586a8ac
+SHA512: bab1a71c8269ac602884df950e87e62819552e2533775a72723dd27950e24979b081334cddffd9142a08f86c9f326cd811abdcb67f13791b2f5ccd5856ab572b
+Homepage: https://gitee.com/gfdgd-xi/optical-drive-tray-control
+Description: 一款基于 Python3 的 PyQt 制作成的光驱托盘控制软件
+
 Package: spark-webapp-runtime-runner
 Architecture: all
 Version: 1.1.0
@@ -952,6 +1040,54 @@ SHA256: f2a1b68d95425f9f77ff5cb0e2247ea7f4cfcdd431393ce9a2ad44631f62a6f9
 SHA512: 5e314d33b0d9ec373a9c82e353b86b788646612a53f50a90b01ea8a37aef754327e95905832294d58d0593ab342711b2d8cbb2cf58055d7282df253532e35b9f
 Homepage: https://gitee.com/gfdgd-xi/spark-webapp-runtime-runner/
 Description: gfdgd xi、为什么您不喜欢熊出没和阿布呢 制作的spark-webapp-runtime-runner
+
+Package: spark-webapp-runtime-runner
+Architecture: all
+Version: 1.0
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 44
+Depends: python3, python3-tk, spark-webapp-runtime
+Filename: ./s/spark-webapp-runtime-runner/spark-webapp-runtime-runner_1.0_all.deb
+Size: 3388
+MD5sum: 7e9f9ad3c3f71998df62ee7a4c10fc5b
+SHA1: 4ee26a85c9e11dc9bc8a5e7318ac60d529196359
+SHA256: b0c1b63a34cae010d360b6e77854808e1a68a73a4c5a2c5cc8098445cddba80e
+SHA512: 1a0c497636d6ec11d5af8589d34c1fc581afa16f75b00a5fd0c740b91f398b513141d9123fc3043f8390dc15b3f8dece9f4687d36854b4bf03532783a17c9a9e
+Homepage: https://gitee.com/gfdgd-xi/spark-webapp-runtime-runner/
+Description: gfdgd xi make's spark-webapp-runtime-runner
+
+Package: spark-webapp-runtime-runner
+Architecture: all
+Version: 1.0.2
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 44
+Depends: python3, python3-tk, spark-webapp-runtime
+Filename: ./s/spark-webapp-runtime-runner/spark-webapp-runtime-runner_1.0.2_all.deb
+Size: 11648
+MD5sum: f01201d7c945bceb753ad0c5101df0bb
+SHA1: a9e6a71881b774b28b541289b196579dc165bb7e
+SHA256: ea2e8adf69325f72f4c0a10e3ca61c15e579c699425d125918b0634907b96803
+SHA512: 1679bcf9da74520fa9155af5607b4be2b6bc480f9124ac03321d3e18b4cc74c70d0753334f7e5352d74d4df69ee589b42180814adda4c0786df1cc97024b5de2
+Homepage: https://gitee.com/gfdgd-xi/spark-webapp-runtime-runner/
+Description: gfdgd xi make's spark-webapp-runtime-runner
+
+Package: spark-webapp-runtime-runner
+Architecture: all
+Version: 1.0.1
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 44
+Depends: python3, python3-tk, spark-webapp-runtime
+Filename: ./s/spark-webapp-runtime-runner/spark-webapp-runtime-runner_1.0.1_all.deb
+Size: 3428
+MD5sum: 8d93ee9d9e9ef0614e1d8c25db755a32
+SHA1: 1498e06e3d1df9cd0a42394433d27ccdf7163ad5
+SHA256: 5a2b4183904adf2018b2e9c551c3c687451e51bf2f1046959be2eb8574d21020
+SHA512: 18dbe3ceb9c447d46fc1aaa6c6df1e192e0d24dd48f1832ed56c8c584da82a720cf149890086599af6ebe4b359eebd8c3ec5d44d6bca820f2e1296627a8c3f1d
+Homepage: https://gitee.com/gfdgd-xi/spark-webapp-runtime-runner/
+Description: gfdgd xi make's spark-webapp-runtime-runner
 
 Package: spark-webapp-runtime-runner
 Architecture: amd64
@@ -1155,6 +1291,33 @@ Description: gfdgd xi、为什么您不喜欢熊出没和阿布呢 制作的 win
  15、支持组件/运行库下载后缓存方便下次使用（可以清理）
  16、点击获取图标按钮后会自动读取 exe 框的程序图标（不支持相对路径和包内路径，只支持绝对路径）
  作者：gfdgd xi、为什么您不喜欢熊出没和阿布呢
+
+Package: spark.deepin-venturi-setter
+Architecture: amd64
+Version: 1.0
+Maintainer: gfdgd xi<3025613752@qq.com>
+Depends: libdtkcore5, libdtkwidget5, libdtkgui5, python3
+Filename: ./s/spark.deepin-venturi-setter/spark.deepin-venturi-setter_1.0_amd64.deb
+Size: 50852
+MD5sum: bc00152c250714b12028e923a7976b3f
+SHA1: 62c0fb2fb699d0fbb5d1994af47823493ef288ed
+SHA256: 54a8a309b5cc0e45eac8c11b1d3e42e191c37cbbd18cd0b54dd02475e947431c
+SHA512: f458c0edda317e65e38d86faee4b6f2821afab0c8933e17cac37ed5262e04588791ff26f34c9874c96ff628f4c184a77ef2811858768565872b4ed88c8576770
+Description: 一个基于 dtk 和 python3 制作的一个 deepin wine 文管设置工具
+
+Package: spark-store-audit-reminder
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Depends: python3, python3-tk, python3-pip, python3-setuptools
+Filename: ./s/spark-store-audit-reminder/spark-store-audit-reminder_1.0.0_all.deb
+Size: 64204
+MD5sum: 5b12464f937f0b24b8966719921bbd89
+SHA1: 9905873aece044a8327c600077effac345b9da90
+SHA256: a78865b1ce21713bf25ff8f625f668ccdce746f8869c6a35c26eed018cd4cc5d
+SHA512: 0dc0f603637af05503e55881f9cb7658d01eb8b7f91462190d61b3110cb6e238546a04e69980effe0741a57f9a553f6c1e8722889e0fdbef5b457b8519a9ec51
+Description: 星火应用商店审核提醒
 
 Package: spark-deepin-wine-runner
 Architecture: all
@@ -1682,6 +1845,49 @@ Description: gfdgd xi 制作的 wine 运行器
  10、优化 Wine 运行器更新策略。
  更新时间：2023年04月29日
  作者：gfdgd xi
+Severity: serious
+Certainty: possible
+Check: binaries
+Type: binary, udeb
+
+Package: spark-deepin-wine-runner
+Architecture: all
+Version: 3.2.1~alpha2
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 25856
+Depends: python3, python3-pil, libc6, python3-pil.imagetk, python3-pyquery, aria2, curl, unrar | unrar-free , unzip, python3-requests, python3-pyqt5, python3-psutil, deepin-terminal | mate-terminal | gnome-terminal | xfce4-terminal, python3-dbus, python3-pip, p7zip-full, sudo, python3-pyperclip
+Recommends: winbind, wimtools, python3-pyqt5.qtwebengine, qemu-user, binfmt-support, qemu-user-static
+Conflicts: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52, spark-deepin-wine-runner
+Replaces: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52, spark-deepin-wine-runner
+Filename: ./s/spark-deepin-wine-runner/spark-deepin-wine-runner_3.2.1~alpha2_all.deb
+Size: 24485784
+MD5sum: a2695ee769b45d9adadec18cf460a349
+SHA1: 2ce0b3ad6ed2bc9c9b909fc02c22a64359f1cec4
+SHA256: 64f9f47dc84a9ac53471eba682aab4c280fba93ab6ae1d5f970b76f536ed5db4
+SHA512: 5f21af49d101983e754ccacc4397ca8ea19dea82be71ffafe1060a831d0a3a59b8f40923dc0354a827da5c3f6663abb6782893ecfa8fb81141448564a356193c
+Homepage: https://gitee.com/gfdgd-xi-org/deep-wine-runner
+Description: gfdgd xi、为什么您不喜欢熊出没和阿布呢 制作的 wine 运行器
+ 3.2.0 更新内容：
+ ※1、Windows 应用适配工具新增系统资源显示；
+ ※2、Windows 应用适配工具使用 C++ 重写；
+ ※3、修复打包器（基于官方生态适配脚本）无法打开的问题；
+ ※4、新增运行库功能安装，以实现使用 Qemu User 跨架构运行 Wine 的功能（理论上支持 3a4000 了，但没试过）；
+ ※5、修复 Chroot 容器的一些问题；
+ ※6、修复在 Debian11 安装时缺失依赖 rar 的问题；
+ ※7、新增安装 box86、box64 的功能；
+ ※8、修复故障反馈功能错误的问题；
+ 9、修改程序内的部分网址；
+ 10、作者信息变更；
+ 11、支持禁用程序的多语言支持（默认禁用，因为是机翻的）；
+ 12、支持在程序本地翻译缺失的情况下自动机翻缺失语句；
+ 13、从此版本开始不再区分吾爱版、Spark 版和 UOS 版；
+ 14、新增下载量查询；
+ 15、更新程序公告；
+ 16、新增断网彩蛋。
+ 更新时间：2023年01月19日
+ 作者：gfdgd xi、为什么您不喜欢熊出没和阿布呢
 Severity: serious
 Certainty: possible
 Check: binaries
@@ -2749,6 +2955,21 @@ Description: gfdgd xi 制作的 wine 运行器
  4、修复了安装星火应用商店的 wine 运行器右键打开方式没有 wine 运行器选项的问题
  5、新增脚本，优化 deepin terminal 调用本程序脚本显示不佳的问题
  作者：gfdgd xi、为什么您不喜欢熊出没和阿布呢
+
+Package: spark-uengine-apk-builder
+Architecture: all
+Version: 1.0.0beta1
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Depends: python3, python3-tk, python3-pip, aapt
+Filename: ./s/spark-uengine-apk-builder/spark-uengine-apk-builder_1.0.0beta1_all.deb
+Size: 16556
+MD5sum: 21adc4cf635512dde5e2012f876bafaa
+SHA1: eb36a613900f96b8a9e391de9ebfab937b24f6e4
+SHA256: bc033ae68b4ea73690264c6c0721c11231fe0f0965306db35d2550092e4b47a9
+SHA512: 170b01772051ea157c63f4a5e7f372eab5e85d57639cecb1f6e589100e75a9c87a2790abf3f6b61f1d114071ba2d6e7591c476e7ef4ff767425acd19d91864b0
+Homepage: https://gitee.com/gfdgd-xi/uengine-apk-builder
+Description: gfdgd xi make's uengine apk builder
 
 Package: spark-uengine-runner
 Architecture: all

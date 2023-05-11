@@ -1,0 +1,15 @@
+Package: spark-optical-drive-tray-control
+Architecture: all
+Version: 1.0.2
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Depends:
+Filename: ./s/spark-optical-drive-tray-control/spark-optical-drive-tray-control_1.0.2_all.deb
+Size: 65332784
+MD5sum: 828ef7fe4c738869365fb8db9f75acba
+SHA1: 63f296cc3204adbb691b5bf6054707daaf3412e4
+SHA256: 60bb411104e34419483c90aa0c5a5351a0b0fddd6d6122d350b5a201c106d729
+SHA512: b5fdb9963d7fd77db03899dda8f5f8fddc5b39d5b34f24b4ebf071a1ce61d4dfd3b323913f519da74476a72185cbc09406d9be910cc9f125ee6418529e0d0e1f
+Homepage: https://gitee.com/gfdgd-xi/optical-drive-tray-control
+Description: 一款基于 Python3 的 PyQt 制作成的光驱托盘控制软件
+

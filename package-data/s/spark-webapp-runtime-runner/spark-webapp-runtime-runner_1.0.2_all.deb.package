@@ -1,0 +1,16 @@
+Package: spark-webapp-runtime-runner
+Architecture: all
+Version: 1.0.2
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 44
+Depends: python3, python3-tk, spark-webapp-runtime
+Filename: ./s/spark-webapp-runtime-runner/spark-webapp-runtime-runner_1.0.2_all.deb
+Size: 11648
+MD5sum: f01201d7c945bceb753ad0c5101df0bb
+SHA1: a9e6a71881b774b28b541289b196579dc165bb7e
+SHA256: ea2e8adf69325f72f4c0a10e3ca61c15e579c699425d125918b0634907b96803
+SHA512: 1679bcf9da74520fa9155af5607b4be2b6bc480f9124ac03321d3e18b4cc74c70d0753334f7e5352d74d4df69ee589b42180814adda4c0786df1cc97024b5de2
+Homepage: https://gitee.com/gfdgd-xi/spark-webapp-runtime-runner/
+Description: gfdgd xi make's spark-webapp-runtime-runner
+

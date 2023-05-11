@@ -1,0 +1,15 @@
+Package: spark-uengine-apk-builder
+Architecture: all
+Version: 1.0.0beta1
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Depends: python3, python3-tk, python3-pip, aapt
+Filename: ./s/spark-uengine-apk-builder/spark-uengine-apk-builder_1.0.0beta1_all.deb
+Size: 16556
+MD5sum: 21adc4cf635512dde5e2012f876bafaa
+SHA1: eb36a613900f96b8a9e391de9ebfab937b24f6e4
+SHA256: bc033ae68b4ea73690264c6c0721c11231fe0f0965306db35d2550092e4b47a9
+SHA512: 170b01772051ea157c63f4a5e7f372eab5e85d57639cecb1f6e589100e75a9c87a2790abf3f6b61f1d114071ba2d6e7591c476e7ef4ff767425acd19d91864b0
+Homepage: https://gitee.com/gfdgd-xi/uengine-apk-builder
+Description: gfdgd xi make's uengine apk builder
+

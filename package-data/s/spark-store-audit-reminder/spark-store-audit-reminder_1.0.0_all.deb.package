@@ -1,0 +1,14 @@
+Package: spark-store-audit-reminder
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Depends: python3, python3-tk, python3-pip, python3-setuptools
+Filename: ./s/spark-store-audit-reminder/spark-store-audit-reminder_1.0.0_all.deb
+Size: 64204
+MD5sum: 5b12464f937f0b24b8966719921bbd89
+SHA1: 9905873aece044a8327c600077effac345b9da90
+SHA256: a78865b1ce21713bf25ff8f625f668ccdce746f8869c6a35c26eed018cd4cc5d
+SHA512: 0dc0f603637af05503e55881f9cb7658d01eb8b7f91462190d61b3110cb6e238546a04e69980effe0741a57f9a553f6c1e8722889e0fdbef5b457b8519a9ec51
+Description: 星火应用商店审核提醒
+

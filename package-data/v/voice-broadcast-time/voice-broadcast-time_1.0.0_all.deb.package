@@ -1,0 +1,16 @@
+Package: voice-broadcast-time
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 40
+Depends: python3, python3-tk, espeak
+Filename: ./v/voice-broadcast-time/voice-broadcast-time_1.0.0_all.deb
+Size: 2260
+MD5sum: 9849e90aad0f3afef1f9e5e09f1dc3bd
+SHA1: 4401e10197dcbf2c1d5be08afb84b1ee5eaa1e85
+SHA256: 9afe2144cae2596845372759c6956c446e15d04c2368552c32d17369e743e630
+SHA512: 8866705001b45373d0a6d22563c633b1020216479cab40520bc8acc405cf680a52d3c95edd29c6be0a16403408942c110e11bb9dac3924fce6e4433a7c70b698
+Homepage: https://gitee.com/gfdgd-xi/voice-broadcast-time
+Description: gfdgd xi make's voice broadcast time
+

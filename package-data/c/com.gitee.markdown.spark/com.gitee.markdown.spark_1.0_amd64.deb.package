@@ -1,0 +1,13 @@
+Package: com.gitee.markdown.spark
+Architecture: amd64
+Version: 1.0
+Maintainer: gfdgd xi<3025613752@qq.com>
+Depends:
+Filename: ./c/com.gitee.markdown.spark/com.gitee.markdown.spark_1.0_amd64.deb
+Size: 9316
+MD5sum: c4053921ef47850ba56f1d71b78ca799
+SHA1: 764ccd1464bcde966ae39318b85845c76992d7b4
+SHA256: 4442ea8f557d747bcc14d804c9037edec6afe27cb110b7b7a7492b7787d48c37
+SHA512: a1af3854698fdb6b7d9c1dfce8b26d8c5fb511dd960eb601211a87681f84213f834f9a8c76471872fb586637a52ac37b14ad6d29909f599d2583de333609b6a8
+Description: 一个基于 Qt 制作的一个 markdown 实时转换软件
+

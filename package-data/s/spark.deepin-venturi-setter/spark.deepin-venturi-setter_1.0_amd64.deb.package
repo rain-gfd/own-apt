@@ -1,0 +1,13 @@
+Package: spark.deepin-venturi-setter
+Architecture: amd64
+Version: 1.0
+Maintainer: gfdgd xi<3025613752@qq.com>
+Depends: libdtkcore5, libdtkwidget5, libdtkgui5, python3
+Filename: ./s/spark.deepin-venturi-setter/spark.deepin-venturi-setter_1.0_amd64.deb
+Size: 50852
+MD5sum: bc00152c250714b12028e923a7976b3f
+SHA1: 62c0fb2fb699d0fbb5d1994af47823493ef288ed
+SHA256: 54a8a309b5cc0e45eac8c11b1d3e42e191c37cbbd18cd0b54dd02475e947431c
+SHA512: f458c0edda317e65e38d86faee4b6f2821afab0c8933e17cac37ed5262e04588791ff26f34c9874c96ff628f4c184a77ef2811858768565872b4ed88c8576770
+Description: 一个基于 dtk 和 python3 制作的一个 deepin wine 文管设置工具
+
