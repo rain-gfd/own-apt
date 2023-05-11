@@ -1,0 +1,15 @@
+Package: spark-store-console
+Architecture: all
+Version: 1.2.2
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Depends: python3, python3-pip, fbi, wget, apt, dpkg, python3-requests
+Filename: ./s/spark-store-console/spark-store-console_1.2.2_all.deb
+Size: 11084
+MD5sum: ed05fce56b46cb100cb05490a9582e61
+SHA1: b6b1e484a80986ff74cc3993fc95f7671cdccc40
+SHA256: e789d0378a1f06135de1f309b60d4c2f35a1d6d75e93352aed497e53eb2b90c0
+SHA512: cb6ed9b3cf79d33368f21d870b51f7d8cfbec1f2045be026e4f2cfe5c2324046c5cca3f863672f36e3d69b4ef5dc9ed4ab57f6b871a3a7152c6c8bdab1ee9e30
+Homepage: https://gitee.com/gfdgd-xi/spark-store-console
+Description: 一个星火应用商店的第三方客户端，为的是可以在更多发行版运行（dtk 不能运行在很多发行版上）
+

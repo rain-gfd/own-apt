@@ -838,6 +838,36 @@ Description: Spark WebApp Runtime
 
 Package: spark-store-console
 Architecture: all
+Version: 1.2.0
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Depends: python3, python3-pip, fbi, wget, apt, dpkg
+Filename: ./s/spark-store-console/spark-store-console_1.2.0_all.deb
+Size: 7620
+MD5sum: 0701924fa4b345614596e11c4806795a
+SHA1: 98af661f366bea2bbfd34d33bcd615fc5663ce2f
+SHA256: b0f993cbc6668bb1a40abaf6a5703543531905078ac85e3300e9748f97924d91
+SHA512: f36adf50996dba0ce8b4ce5840a3631ecc21d5415cff20114591222dd27e3590f45f36555539f79fca6b9c24997e7c4e9d8afe071843b0b4b0bde3a7f0768beb
+Homepage: https://gitee.com/gfdgd-xi/spark-store-console
+Description: 一个星火应用商店的第三方客户端，为的是可以在更多发行版运行（dtk 不能运行在很多发行版上）
+
+Package: spark-store-console
+Architecture: all
+Version: 1.2.2
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Depends: python3, python3-pip, fbi, wget, apt, dpkg, python3-requests
+Filename: ./s/spark-store-console/spark-store-console_1.2.2_all.deb
+Size: 11084
+MD5sum: ed05fce56b46cb100cb05490a9582e61
+SHA1: b6b1e484a80986ff74cc3993fc95f7671cdccc40
+SHA256: e789d0378a1f06135de1f309b60d4c2f35a1d6d75e93352aed497e53eb2b90c0
+SHA512: cb6ed9b3cf79d33368f21d870b51f7d8cfbec1f2045be026e4f2cfe5c2324046c5cca3f863672f36e3d69b4ef5dc9ed4ab57f6b871a3a7152c6c8bdab1ee9e30
+Homepage: https://gitee.com/gfdgd-xi/spark-store-console
+Description: 一个星火应用商店的第三方客户端，为的是可以在更多发行版运行（dtk 不能运行在很多发行版上）
+
+Package: spark-store-console
+Architecture: all
 Version: 4.2.5.1
 Priority: optional
 Section: utils
@@ -856,6 +886,21 @@ SHA512: 53de742a9d91c4d58c63f622b50643d7751c326d9eeefb311c48b75bc48467c6cf1ab711
 Homepage: https://www.spark-app.store/
 Description: Spark Store
  A community powered app store, based on DTK.
+
+Package: spark-store-console
+Architecture: all
+Version: 1.2.1
+Priority: optional
+Maintainer: gfdgd xi <3025613752@qq.com>
+Depends: python3, python3-pip, fbi, wget, apt, dpkg
+Filename: ./s/spark-store-console/spark-store-console_1.2.1_all.deb
+Size: 9224
+MD5sum: 39b575658448c7bf29fcf2eabab92e6b
+SHA1: 91c3e2554a5094149490e615fdde1974f62b565d
+SHA256: c0d95afc4212c91e689f907be077bbef3f4781fb1da90eb416b37bf8b9025507
+SHA512: 4c9629c405a6a02df2a8d122897037e479ad0ffcbdd0115e97581e81dac8adef9d0e55232e004e9823be59c1dc5284b675917e252e3d118a500e533cbc26a482
+Homepage: https://gitee.com/gfdgd-xi/spark-store-console
+Description: 一个星火应用商店的第三方客户端，为的是可以在更多发行版运行（dtk 不能运行在很多发行版上）
 
 Package: spark-store-console
 Architecture: all
