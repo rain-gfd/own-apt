@@ -1,0 +1,40 @@
+Package: spark-deepin-wine-runner
+Architecture: mips64el
+Version: 3.2.2.1
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 76512
+Depends: python3, python3-pil, libc6, python3-pil.imagetk, python3-pyquery, aria2, curl, unrar | unrar-free , unzip, python3-requests, python3-pyqt5, python3-psutil, deepin-terminal | mate-terminal | gnome-terminal | xfce4-terminal, python3-dbus, python3-pip, p7zip-full, sudo, python3-pyperclip
+Recommends: winbind, wimtools, python3-pyqt5.qtwebengine, qemu-user, binfmt-support, qemu-user-static
+Conflicts: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52, spark-deepin-wine-runner
+Replaces: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52, spark-deepin-wine-runner
+Filename: ./s/spark-deepin-wine-runner/spark-deepin-wine-runner_3.2.2.1_mips64el.deb
+Size: 23799172
+MD5sum: 35e849d97014fc0f0aa85c2d439b2885
+SHA1: dedb126daa48e8b5949b2d68269cf960a4681d4e
+SHA256: e981b608c217229d59b1402022734899d6b4971acf2300098f92c51935be4685
+SHA512: 3e947b3f9a8f92813818785dd34ca2d524f92a4f6fd1b8f5216c6b5ea1e8e98580e2548b3306eb1b96d2b645c4eff1b1d9c9d276cff7b9522367d1cd073d90e4
+Homepage: https://gitee.com/gfdgd-xi/deep-wine-runner
+Description: gfdgd xi 制作的 wine 运行器
+ 3.2.2 更新内容：
+ ※1. 修改源地址，脱离 Gitlink；
+ ※2. 修复非 X86 架构运行器主页面虚拟机工具禁用的问题。
+ 3.2.1 更新内容：
+ ※1、Windows 虚拟机安装工具支持非 X86 架构；
+ ※2、应用打包器可以与星火应用商店配合构建 arm/all 全架构的 Wine 包；
+ ※3、Windows 虚拟机安装工具支持调用 Qemu；
+ ※4、新增 Qemu User 运行 Wine 的帮助入口；
+ ※5、修复 Windows 虚拟机的自动配置镜像缺少 aria2c.exe 的故障；
+ ※6、支持在更新程序版本时自动关闭程序进程；
+ 7、运行器和打包器支持调用 spark-wine8；
+ 8、修改作者信息；
+ 9、新增安装包构建时间；
+ 10、优化 Wine 运行器更新策略。
+ 更新时间：2023年04月29日
+ 作者：gfdgd xi
+Severity: serious
+Certainty: possible
+Check: binaries
+Type: binary, udeb
+
