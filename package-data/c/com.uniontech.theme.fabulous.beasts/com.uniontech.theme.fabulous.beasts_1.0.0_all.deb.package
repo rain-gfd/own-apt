@@ -1,0 +1,16 @@
+Package: com.uniontech.theme.fabulous.beasts
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: admin
+Maintainer: 3025613752 <3025613752@qq.com>
+Installed-Size: 33169
+Filename: ./c/com.uniontech.theme.fabulous.beasts/com.uniontech.theme.fabulous.beasts_1.0.0_all.deb
+Size: 14901916
+MD5sum: d3ea3d3cf51c780039af386c1d554129
+SHA1: 8482ed83a1baad546aa8d0d82c42cfbeb5f16174
+SHA256: f38bc56abb730f31eb06c9768068f357d4b38a28dcbad297c04e9da66d84d00a
+SHA512: 5f6c349ed39528758335be3376e24a319036ae148c3089037623a02bf4903218976152257f1a7eae7c1c0646225eea50a67401398789b768cbd1301da209855b
+Description: 自定义主题（内包含 壁纸、光标、字体）
+ 有兽焉主题（壁纸来自有兽焉周边山海遗魂夏日戏水限量海报，字体为汉仪字库联名字体，字体为个人非商用）
+

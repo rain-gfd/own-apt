@@ -23,6 +23,54 @@ Description: UEngine 运行器，1.6.2 更新内容：
  5、修复了本程序在 Ubuntu 上安装和卸载报错而无法继续的问题
  6、优化帮助/关于窗口在高分辨率电脑上显示不全的问题
 
+Package: com.uniontech.theme.jingostheme
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: admin
+Maintainer: 3025613752 <3025613752@qq.com>
+Installed-Size: 3443
+Filename: ./c/com.uniontech.theme.jingostheme/com.uniontech.theme.jingostheme_1.0.0_all.deb
+Size: 3358940
+MD5sum: 9722a58197a5cdfc6c8555fb0a15619a
+SHA1: 6b9be41796a1f2fa2355c2e1180830333685fa4b
+SHA256: 8406d3449e50915191ddc0111e66c1b7137a7e2e186dae74b0de0c62e230555f
+SHA512: ad10827b687ad4270c82eab33cb57c5aea010349749fb30f19250b7670b4059f5ce7f526c4b58cc2a7018cf204bdbe9dea5a9b1ab0f9f26f27b2e687e3ef03d6
+Description: 自定义主题（内包含 壁纸、光标、字体）
+ JingOS 主题
+
+Package: com.uniontech.theme.gfdgdxi.easymousethemes
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: admin
+Maintainer: 3025613752 <3025613752@qq.com>
+Installed-Size: 1104
+Filename: ./c/com.uniontech.theme.gfdgdxi.easymousethemes/com.uniontech.theme.gfdgdxi.easymousethemes_1.0.0_all.deb
+Size: 35296
+MD5sum: c085e18da7da632f33af4e6375c7e2ef
+SHA1: 5fbe2ce320aba08e87924521462b7cba52fcd7ed
+SHA256: fa15f083bd659a93d23069480073949db867792a5dd19cc7464cc7e67be2eb56
+SHA512: 8da3322f808539816c7ecf91665f7a0c70a2c4d92b6dba0017fbebda83b03249239d96920cfe4e57443e3b41e3ca02c90396c268887b151968ca6e4caa79b59b
+Description: 自定义主题（内包含 壁纸、光标、字体）
+ Easy-Mouse-Themes
+
+Package: com.uniontech.theme.fabulous.beasts
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: admin
+Maintainer: 3025613752 <3025613752@qq.com>
+Installed-Size: 33169
+Filename: ./c/com.uniontech.theme.fabulous.beasts/com.uniontech.theme.fabulous.beasts_1.0.0_all.deb
+Size: 14901916
+MD5sum: d3ea3d3cf51c780039af386c1d554129
+SHA1: 8482ed83a1baad546aa8d0d82c42cfbeb5f16174
+SHA256: f38bc56abb730f31eb06c9768068f357d4b38a28dcbad297c04e9da66d84d00a
+SHA512: 5f6c349ed39528758335be3376e24a319036ae148c3089037623a02bf4903218976152257f1a7eae7c1c0646225eea50a67401398789b768cbd1301da209855b
+Description: 自定义主题（内包含 壁纸、光标、字体）
+ 有兽焉主题（壁纸来自有兽焉周边山海遗魂夏日戏水限量海报，字体为汉仪字库联名字体，字体为个人非商用）
+
 Package: com.gitee.markdown.spark
 Architecture: amd64
 Version: 1.0

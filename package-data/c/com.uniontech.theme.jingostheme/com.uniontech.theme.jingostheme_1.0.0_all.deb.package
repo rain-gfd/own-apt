@@ -1,0 +1,16 @@
+Package: com.uniontech.theme.jingostheme
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: admin
+Maintainer: 3025613752 <3025613752@qq.com>
+Installed-Size: 3443
+Filename: ./c/com.uniontech.theme.jingostheme/com.uniontech.theme.jingostheme_1.0.0_all.deb
+Size: 3358940
+MD5sum: 9722a58197a5cdfc6c8555fb0a15619a
+SHA1: 6b9be41796a1f2fa2355c2e1180830333685fa4b
+SHA256: 8406d3449e50915191ddc0111e66c1b7137a7e2e186dae74b0de0c62e230555f
+SHA512: ad10827b687ad4270c82eab33cb57c5aea010349749fb30f19250b7670b4059f5ce7f526c4b58cc2a7018cf204bdbe9dea5a9b1ab0f9f26f27b2e687e3ef03d6
+Description: 自定义主题（内包含 壁纸、光标、字体）
+ JingOS 主题
+
