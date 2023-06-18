@@ -1470,6 +1470,27 @@ SHA256: 54a8a309b5cc0e45eac8c11b1d3e42e191c37cbbd18cd0b54dd02475e947431c
 SHA512: f458c0edda317e65e38d86faee4b6f2821afab0c8933e17cac37ed5262e04588791ff26f34c9874c96ff628f4c184a77ef2811858768565872b4ed88c8576770
 Description: 一个基于 dtk 和 python3 制作的一个 deepin wine 文管设置工具
 
+Package: spark-dwine-helper
+Architecture: all
+Version: 2.3.1
+Multi-Arch: foreign
+Priority: extra
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 112
+Provides: store.spark-app.spark-dwine-helper(=2.3.1)
+Depends: zenity, p7zip-full, fonts-noto-cjk,transhell
+Recommends: spark-dwine-helper-settings
+Replaces: store.spark-app.spark-dwine-helper(<=2.3.1)
+Filename: ./s/spark-dwine-helper/spark-dwine-helper_2.3.1_all.deb
+Size: 12012
+MD5sum: 0aa3b98213787c241d0b6579465db7d3
+SHA1: 301831928221bd8574716d9be21ef873c3c44afb
+SHA256: 6324852320e586712798c568d961ba9230b6e5b32dcb535c9dbf3cc8f2ecb9ec
+SHA512: 091cc1d41491d095ca89080bcc7027f5ac7a92227a4352f5be40ec137a5ec1b4a636b1d2b7374149ab3af8e688b4ee662ef2c1e9f476b2a0e2d5412f3de741e6
+Homepage: https://gitee.com/deepin-community-store/spark-wine
+Description: Spark Deepin Wine Helper
+
 Package: spark-store-audit-reminder
 Architecture: all
 Version: 1.0.0
