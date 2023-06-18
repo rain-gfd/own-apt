@@ -1215,6 +1215,42 @@ SHA512: aa1f42888531609c0b473b78fcb4e27ebd528744aba0190c7ef0573f914a7ace45fd5fc8
 Homepage: https://gitee.com/gfdgd-xi/spark-webapp-runtime-runner/
 Description: gfdgd xi、为什么您不喜欢熊出没和阿布呢 制作的spark-webapp-runtime-runner
 
+Package: spark-store
+Architecture: arm64
+Version: 4.2.6.2-fix1
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 1150
+Depends: libc6 (>= 2.17), libdtkcore5 (>= 5.2), libdtkgui5 (>= 5.2), libdtkwidget5 (>= 5.2), libgcc1 (>= 1:3.0), libgl1, libqt5concurrent5 (>= 5.0.2), libqt5core5a (>= 5.7.0), libqt5dbus5 (>= 5.5.0), libqt5gui5 (>= 5.10.0), libqt5network5 (>= 5.0.2), libqt5positioning5 (>= 5.6.0), libqt5printsupport5 (>= 5.0.2), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5webchannel5 (>= 5.6.1), libqt5webenginecore5 (>= 5.7.1), libqt5webenginewidgets5 (>= 5.7.1), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 5.2), qtwayland5, curl, openssl, dde-qt5integration, aria2, gnupg, zenity, policykit-1, libnotify-bin
+Filename: ./s/spark-store/spark-store_4.2.6.2-fix1_arm64.deb
+Size: 589908
+MD5sum: fe8ca648e4259bce2a6fcf254688bdbf
+SHA1: f2ac177539103a3ef8255d3e500a1aa5c1c7f67f
+SHA256: b9d4e5dec07cd98d140f7eed94aeec30748ad427a119ab77bf852f53ec4a0dc2
+SHA512: ace7803550f7d8162959399d434d88126f4027f293bb91a3099a83dccb6cde9179b1c9f6bef96a172999c018b3918bff2a214734921dcdc981ffc81144770551
+Homepage: https://www.spark-app.store/
+Description: Spark Store
+ A community powered app store, based on DTK.
+
+Package: spark-store
+Architecture: amd64
+Version: 4.2.6.2
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 1145
+Depends: libc6 (>= 2.14), libdtkcore5 (>= 5.4), libdtkgui5 (>= 5.4), libdtkwidget5 (>= 5.4), libgcc1 (>= 1:3.0), libgl1, libqt5concurrent5 (>= 5.0.2), libqt5core5a (>= 5.11.0~rc1), libqt5dbus5 (>= 5.5.0), libqt5gui5 (>= 5.10.0), libqt5network5 (>= 5.0.2), libqt5positioning5 (>= 5.6.0), libqt5printsupport5 (>= 5.0.2), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5webchannel5 (>= 5.6.1), libqt5webenginecore5 (>= 5.7.1), libqt5webenginewidgets5 (>= 5.7.1), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 5.2), qtwayland5, curl, openssl, dde-qt5integration, aria2, gnupg, zenity, policykit-1, libnotify-bin
+Filename: ./s/spark-store/spark-store_4.2.6.2_amd64.deb
+Size: 602560
+MD5sum: 1e84c8212420a7e5daa9f2322632d6b2
+SHA1: d82053554a8d016a868c78a111be7bee71bc2a0e
+SHA256: 777abbf41d1bbbf039a95835d7bb98c19610fb4e4f497804304ef569ed6deecd
+SHA512: 9da7cde2ce8d49cc1d7d4ebc2f259403fc7107b882297b98d7e6fa704369ec61ba724eea7d7eaa840a942f481747c1dbf4776903f7d569ee66b3f1a645520fb2
+Homepage: https://www.spark-app.store/
+Description: Spark Store
+ A community powered app store, based on DTK.
+
 Package: spark-deepin-wine-runner-52
 Architecture: all
 Version: 2.2.0
