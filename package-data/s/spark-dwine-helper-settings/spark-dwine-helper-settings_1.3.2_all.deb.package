@@ -1,0 +1,18 @@
+Package: spark-dwine-helper-settings
+Architecture: all
+Version: 1.3.2
+Multi-Arch: foreign
+Priority: extra
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 120
+Depends: spark-dwine-helper(>=1.6),transhell,zenity
+Filename: ./s/spark-dwine-helper-settings/spark-dwine-helper-settings_1.3.2_all.deb
+Size: 51224
+MD5sum: 2670f53a08fed3d39e6b5733902756b7
+SHA1: 276ae4615a46b6965d8c076b90004d546e0c600f
+SHA256: bc38df015480762407e5b55558c0c8bb3dff27bcd200e4c38b4ad373a8e0306e
+SHA512: 3990892aefca4be065abc7ea594640064b65603a5bb47016d65a289af0d3cd812601ed0e574d610efce85e69b6009857226055f082e0ac30532de7a5def3ee3c
+Homepage: https://gitee.com/deepin-community-store/spark-wine
+Description: Spark Deepin Wine Helper
+
