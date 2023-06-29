@@ -1,0 +1,21 @@
+Package: gx-env-runner
+Architecture: amd64
+Version: 1.0.1
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 1100
+Depends: python3, python3-pyqt5, bubblewrap, gx-env-runtime
+Filename: ./g/gx-env-runner/gx-env-runner_1.0.1_amd64.deb
+Size: 4936
+MD5sum: 740e703c520134e70a546edbd9508237
+SHA1: 2f8806c39c703c70673dec865eda8476f78066b2
+SHA256: 157812b876d4469451dfc40885676fe6f472c775107f07fee1104391070eda57
+SHA512: c0131207e388bc15a2a9a7fa3c8e4002f8372d191dc5bebe2f7e8becc6e125e2b29aa6c15ffea1cb3204f997730639f40158c9f4df0a163d1390b6d0632314a8
+Homepage: https://gitee.com/gfdgd-xi/deep-wine-runner
+Description: deepin15(deepin20/23)兼容环境
+Severity: serious
+Certainty: possible
+Check: binaries
+Type: binary, udeb
+
