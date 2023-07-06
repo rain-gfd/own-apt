@@ -317,6 +317,27 @@ Homepage: https://gitee.com/gfdgd-xi/uengine-runner
 Description: 新版本Deepin/UOS发布后，可以在应用商店安装部分官方已适配的安卓应用，对爱好者来说，不能自己安装APK软件包始终差点意思，本程序可以为Deepin/UOS上的Uengine安卓运行环境安装/卸载/打包自定义APK软件包，并能发送安装的APK包启动菜单到桌面或系统菜单。
 
 Package: com.gitee.uengine.runner.spark
+Architecture: amd64
+Version: 2.1.1
+Priority: optional
+Section: utils
+Source: com.gitee.uengine.runner.spark
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 2920
+Depends: python3, python3-tk, python3-pip, aapt, python3-setuptools, deepin-terminal | mate-terminal | gnome-terminal | xfce4-terminal, curl, python3-pil, python3-requests, adb, fonts-noto-cjk, python3-numpy, wget, inotify-tools, aria2, python3-pyqt5, python3-matplotlib, python3-urllib3, zenity, python3-pil.imagetk
+Recommends: uengine, deepin-elf-verify, python3-pyqt5.qtwebengine
+Conflicts: spark-uengine-apk-builder, com.gitee.uengine.runner.spark.ubuntu
+Replaces: spark-uengine-runner, com.gitee.uengine.runner.spark.ubuntu
+Filename: ./c/com.gitee.uengine.runner.spark/com.gitee.uengine.runner.spark_2.1.1_amd64.deb
+Size: 1575772
+MD5sum: 64b802ce538f90a86618ca5fe2bbe757
+SHA1: 082e75c7c65407978c82ba94ef9b625ae215875b
+SHA256: f34ebc0103da3a83c748311979a9c0dbea692aa1f8bd196a8ca6c0a2c88c101e
+SHA512: c83a3e4928ab9afad4776d24ed6d05a66fef371ed9423ff7acb34538a1d8c406ba6f6a0c518afdccaf44cf2c1258dbc7d3e3deeb773cb88d5b825542c591bbaf
+Homepage: https://gitee.com/gfdgd-xi/uengine-runner
+Description: 新版本Deepin/UOS发布后，可以在应用商店安装部分官方已适配的安卓应用，对爱好者来说，不能自己安装APK软件包始终差点意思，本程序可以为Deepin/UOS上的Uengine安卓运行环境安装/卸载/打包自定义APK软件包，并能发送安装的APK包启动菜单到桌面或系统菜单。
+
+Package: com.gitee.uengine.runner.spark
 Architecture: all
 Version: 1.8.0
 Priority: optional
@@ -404,6 +425,27 @@ SHA256: 314f46f304a2fc55170b1aa35e5bf4f4c47f6d16618088ae9cbb5e2b5287c054
 SHA512: c89d20e21cc74819c0f923a90538874b32483427c1556748fc12a4ad4ac7ca15e6f4cfd5d2023e69fc9cee76d0d32d5a3c8088f89bac01d4637ca71361386bfd
 Homepage: https://gitee.com/gfdgd-xi/uengine-runner
 Description: UEngine 运行器，2.0.0 更新内容： ※1、内置微型应用商店，支持评论、评分功能； ※2、修复 UEngine 安装器在 Wayland 下无法正常运行的问题； ※3、更新 UEngine 安装器安装的 UEngine 版本； ※4、修复 UEngine 安装器安装后的 UEngine 无法正常安装 APK 的问题（包括从运行器和 deb 包安装）； ※5、UEngine 安装器支持安装使用 SuperSU Root 的镜像； ※6、UEngine 安装器安装后的 UEngine 支持开机后自动加载运行环境，无需人手动打开终端运行； ※7、放开原先程序内的程序安装量查询功能，并新增打开量查询功能（在程序的关于窗口里打开）； ※8、程序更新时不需要关闭所有 Python3 程序，只会关闭自己； ※9、新增彩蛋（只在2023年1月22日生效）； ※10、修复 UEngine 打包器在部分系统无法打开的问题； ※11、新增程序公告功能； ※12、修复了程序更新功能从高版本降级到低版本的问题； ※13、不强制依赖 Deepin 终端； ※14、新增 UEngine 打包器（高级版）； 15、更改程序论坛网址； 16、新增程序评分功能； 17、修复 UEngine 打包器在打包时无法正确禁用所有选项； 18、UEngine 打包器打包的 deb 不再指定 deepin-elf-verify 依赖版本； 19、“更多帮助”功能支持访问云端的帮助内容； 20、更换程序接口； 21、优化菜单栏分类，菜单栏新增图标； 22、程序关于可以查看程序使用的开源协议； 23、修复在 Ubuntu 下安装后启动器没有图标的问题。
+
+Package: com.gitee.uengine.runner.spark
+Architecture: all
+Version: 2.1.1
+Priority: optional
+Section: utils
+Source: com.gitee.uengine.runner.spark
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 2920
+Depends: python3, python3-tk, python3-pip, aapt, python3-setuptools, deepin-terminal | mate-terminal | gnome-terminal | xfce4-terminal, curl, python3-pil, python3-requests, adb, fonts-noto-cjk, python3-numpy, wget, inotify-tools, aria2, python3-pyqt5, python3-matplotlib, python3-urllib3, zenity, python3-pil.imagetk
+Recommends: uengine, deepin-elf-verify, python3-pyqt5.qtwebengine
+Conflicts: spark-uengine-apk-builder, com.gitee.uengine.runner.spark.ubuntu
+Replaces: spark-uengine-runner, com.gitee.uengine.runner.spark.ubuntu
+Filename: ./c/com.gitee.uengine.runner.spark/com.gitee.uengine.runner.spark_2.1.1_all.deb
+Size: 1575772
+MD5sum: f70aaaec134c3a2a8867e44769e01484
+SHA1: 45c477be2d603be736087d286d5fe210cd00991e
+SHA256: 22bc477c8af43b23de68560f8bb606bdb5595209d8e5a99b5767f923a663751a
+SHA512: d2f45de9d4f0d285fe45d7b93b48f6e6e7a8cd05f42b9a2cd3cb9c0a5c37b64e5ddc88fdf624c9cde6614e736c73f8d8d34dafb8b495a807a3c30c9ed2003f35
+Homepage: https://gitee.com/gfdgd-xi/uengine-runner
+Description: 新版本Deepin/UOS发布后，可以在应用商店安装部分官方已适配的安卓应用，对爱好者来说，不能自己安装APK软件包始终差点意思，本程序可以为Deepin/UOS上的Uengine安卓运行环境安装/卸载/打包自定义APK软件包，并能发送安装的APK包启动菜单到桌面或系统菜单。
 
 Package: com.gitee.uengine.runner.spark
 Architecture: all
@@ -506,6 +548,27 @@ Description: UEngine 运行器，1.0.0 更新内容：
  19、“更多帮助”功能支持访问云端的帮助内容；
  20、更换程序接口；
  21、优化菜单栏分类，菜单栏新增图标。
+
+Package: com.gitee.uengine.runner.spark
+Architecture: arm64
+Version: 2.1.1
+Priority: optional
+Section: utils
+Source: com.gitee.uengine.runner.spark
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 2920
+Depends: python3, python3-tk, python3-pip, aapt, python3-setuptools, deepin-terminal | mate-terminal | gnome-terminal | xfce4-terminal, curl, python3-pil, python3-requests, adb, fonts-noto-cjk, python3-numpy, wget, inotify-tools, aria2, python3-pyqt5, python3-matplotlib, python3-urllib3, zenity, python3-pil.imagetk
+Recommends: uengine, deepin-elf-verify, python3-pyqt5.qtwebengine
+Conflicts: spark-uengine-apk-builder, com.gitee.uengine.runner.spark.ubuntu
+Replaces: spark-uengine-runner, com.gitee.uengine.runner.spark.ubuntu
+Filename: ./c/com.gitee.uengine.runner.spark/com.gitee.uengine.runner.spark_2.1.1_arm64.deb
+Size: 1575772
+MD5sum: 4faed6cdbac76e515a455a1a552d1708
+SHA1: 475ef031d4dcd36fffc0c8208f239321369e94aa
+SHA256: 220ce1d8bd8166af53c6ff80d8589265ec395cb046b538deaaeda7798a03e9d0
+SHA512: b7d63efed30699c2cfda52c283ad3844d8d1c0b4514e1b57bd19417c6104a7fdb8b123209c12a26b138aa11e67de72a0f706e647426beaf731b526f11b238cf5
+Homepage: https://gitee.com/gfdgd-xi/uengine-runner
+Description: 新版本Deepin/UOS发布后，可以在应用商店安装部分官方已适配的安卓应用，对爱好者来说，不能自己安装APK软件包始终差点意思，本程序可以为Deepin/UOS上的Uengine安卓运行环境安装/卸载/打包自定义APK软件包，并能发送安装的APK包启动菜单到桌面或系统菜单。
 
 Package: com.gitee.uengine.runner.spark
 Architecture: all
