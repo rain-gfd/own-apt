@@ -1,0 +1,26 @@
+Package: spark-deepin-wine-runner
+Architecture: arm64
+Version: 3.3.0
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 76512
+Provides: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
+Depends: python3, python3-pil, libc6, python3-pil.imagetk, python3-pyquery, aria2, curl, unrar | unrar-free , unzip, python3-requests, python3-pyqt5, python3-psutil, deepin-terminal | mate-terminal | gnome-terminal | xfce4-terminal, python3-dbus, python3-pip, p7zip-full, sudo, python3-pyperclip, bubblewrap, zenity
+Recommends: winbind, wimtools, python3-pyqt5.qtwebengine, binfmt-support, libc6:i386
+Conflicts: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
+Replaces: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
+Filename: ./s/spark-deepin-wine-runner/spark-deepin-wine-runner_3.3.0_arm64.deb
+Size: 23799744
+MD5sum: 98b7ee9060a3aae6a72c85f86d51b620
+SHA1: 5f38e083042e438c358948c9e59784bf8b12320b
+SHA256: 3c340b005fbbf3f81b2bb95edcfc06e5e1ae5156516ed80fb8f5b2e8df0f32a1
+SHA512: de4573245d6044852bf05eaca65b3bce9287e8ae389d85c294110db4a487dcc06152b1735d98ded3e36c3dcbe5a1c4c854ade8dba402bb45a0963a737238600d
+Homepage: https://gitee.com/gfdgd-xi/deep-wine-runner
+Description: Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序，内置了对Wine图形化的支持、各种Wine工具、自制的Wine程序打包器和运行库安装工具等。
+ 它同时还内置了基于Qemu/VirtualBox制作的、专供小白使用的Windows虚拟机安装工具，可以做到只需下载系统镜像并点击安装即可，无需考虑虚拟机的安装、创建、分区等操作，也能在非 X86 架构安装 X86 架构的 Windows 操作系统（但是效率较低）。
+Severity: serious
+Certainty: possible
+Check: binaries
+Type: binary, udeb
+
