@@ -37,14 +37,14 @@ Package: deepin-community-live-cd-env-install
 Architecture: all
 Version: 1.1.0
 Maintainer: gfdgd xi<3025613752@qq.com>
-Depends: gparted, uos-livecdtools, com.poweriso.spark, pardus-boot-repair, deepin-repair-tools, gparted, deepin-community-live-cd-appstore, grub-customizer, spark-simple-remote-desktop-accessor, timeshift, uos-remote-assistance, deepin-installer, ghost, boot-repair
+Depends: gparted, uos-livecdtools, com.poweriso.spark, pardus-boot-repair, deepin-repair-tools, gparted, deepin-community-live-cd-appstore, grub-customizer, spark-simple-remote-desktop-accessor, timeshift, uos-remote-assistance, deepin-installer, ghost:i386, boot-repair
 Conflicts: deepin-community-live-cd-env-mini, deepin-community-live-cd-env, deepin-community-live-cd-env-tiny, deepin-community-live-cd-env-full
 Filename: ./d/deepin-community-live-cd-env-install/deepin-community-live-cd-env-install_1.1.0_all.deb
-Size: 1407248
-MD5sum: ed9f7ebcdb79392463bb126f597702dd
-SHA1: 9471fda8f8d57037aa7b7bf103832ae43e70a052
-SHA256: 72ceaaecf9b43e364b53ea999fdeac9a46607d2a697da8db7dff64532e7f441c
-SHA512: 4fc178c8036175fd4a1b8789e893861c0ec6eb57f4a2498ac04bf085d067ee3c14d5ba3ae6804f91a7a50a8ffec67d7da30fc99ba5a832a268c7443893c16ece
+Size: 1407256
+MD5sum: c4ec8aa0bfa1fd3dea581ebd1aa67211
+SHA1: dbcfae035ef36de27fee2416ceb8328034e23007
+SHA256: 0e305dd95b36c6f767d3bbd2588a40a12bdade5b19b61773100c5405c2762c64
+SHA512: 44c8bcd29e8320a739ae96459287ecf1894ca45d8610c0e29b3e895bc5e076343c90a940997b0b757f2937ac0036e08e799dfcb2946d714eedfae0c0c523e3a0
 Description: Deepin Community Live CD Install 环境（非空包，带部分配置文件）
 
 Package: deepin-community-live-cd-appstore
