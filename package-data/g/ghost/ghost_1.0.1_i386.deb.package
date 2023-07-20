@@ -1,0 +1,13 @@
+Package: ghost
+Architecture: i386
+Version: 1.0.1
+Maintainer: gfdgd xi<3025613752@qq.com>
+Depends: libc6, libstdc++6, libx11-6
+Filename: ./g/ghost/ghost_1.0.1_i386.deb
+Size: 2941168
+MD5sum: 4450cf71ef06754ba6b63db031538b78
+SHA1: 520759f59a943819c1007d961cc4ce2c7010d7be
+SHA256: a498a83a9ba2910a5beb6966f4efb54fd118664c2c14a19efc44366c067f3242
+SHA512: 603e8e8a6e5d92ca29690c2c4b08a0bf365e9d8fe7f0f8e216de5d071a11f13d96183e18eb829c34a58802307f9ad007a659469ee790ae1b72e862f9bd7a6e10
+Description: Ghost For Deepin Community Live CD
+
