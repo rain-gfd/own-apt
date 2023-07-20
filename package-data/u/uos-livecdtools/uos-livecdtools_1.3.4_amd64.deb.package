@@ -1,0 +1,13 @@
+Package: uos-livecdtools
+Architecture: amd64
+Version: 1.3.4
+Maintainer: gfdgd xi<3025613752@qq.com>
+Depends:
+Filename: ./u/uos-livecdtools/uos-livecdtools_1.3.4_amd64.deb
+Size: 2498052
+MD5sum: 0a30e997afece06f8960d68b7c0c8639
+SHA1: cff6445c61c00fc6ef5b578011ed179a40535f74
+SHA256: a9b014bcd0bd2a77838f730ec0cff0726a9259ca3868ac794613e5d2102006fc
+SHA512: b14ae583de369a351ff20fb76f65b7adfae303642b2f143bd2e947267d87b719215cb047f94428074b2cc34a2814578ad6a416847eae6e7bdfe87f57f2a1e2ed
+Description: UOS Live CD Tools For Deepin Community Live CD
+
