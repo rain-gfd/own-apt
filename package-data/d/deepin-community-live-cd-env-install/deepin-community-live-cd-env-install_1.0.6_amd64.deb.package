@@ -1,0 +1,14 @@
+Package: deepin-community-live-cd-env-install
+Architecture: amd64
+Version: 1.0.6
+Maintainer: gfdgd xi<3025613752@qq.com>, 为什么您不喜欢熊出没和阿布呢
+Depends: gparted, uos-livecdtools, com.poweriso.spark, pardus-boot-repair, deepin-repair-tools, gparted, deepin-community-live-cd-appstore, grub-customizer, spark-simple-remote-desktop-accessor, timeshift, uos-remote-assistance, deepin-installer, ghost, boot-repair
+Conflicts: deepin-community-live-cd-env-mini, deepin-community-live-cd-env, deepin-community-live-cd-env-tiny, deepin-community-live-cd-env-full
+Filename: ./d/deepin-community-live-cd-env-install/deepin-community-live-cd-env-install_1.0.6_amd64.deb
+Size: 1419284
+MD5sum: f5b33fcacef1f26b00e5e5eaad76fba1
+SHA1: 0e00f9a4c847dbb6832a32b711121b25184e5c58
+SHA256: 92d970f2b18c8faa98d7ae9e52d0d34ee001e640162d59bf9e55bb40340f6c05
+SHA512: 3807df30cb58916e213acd90c331c98b7be44375c0032829a2cad6ba98bc3a228228c5671ff05beca3a3e5e03b07ff044a8032bb111ee6889b6c6af3d0750517
+Description: Deepin Community Live CD Install 环境（非空包，带部分配置文件）
+

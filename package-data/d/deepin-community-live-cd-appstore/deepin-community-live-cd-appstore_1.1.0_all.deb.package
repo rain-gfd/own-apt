@@ -1,0 +1,13 @@
+Package: deepin-community-live-cd-appstore
+Architecture: all
+Version: 1.1.0
+Maintainer: gfdgd xi<3025613752@qq.com>
+Depends: spark-store-console | spark-store
+Filename: ./d/deepin-community-live-cd-appstore/deepin-community-live-cd-appstore_1.1.0_all.deb
+Size: 724
+MD5sum: 9aac7a16b0e0e94b4ab276bb61cadcd8
+SHA1: eeb2605fd940eb1d5529ae03141c1e2f9fb55766
+SHA256: 7d76195115cc4bfb388014429b3bcdd6451926b6f3c16f1e527b3fc29eafc33d
+SHA512: f7ef7eeac961e3aa47e611003b3cac690a93de7d99cdc5badfad470bef1de3dae294ab5b464239a3a2108dfddcfa37ddfc45f54aff1304aa67582e31a7664451
+Description: App Store For Deepin Community Live CD
+
