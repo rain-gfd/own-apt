@@ -4417,6 +4417,48 @@ SHA512: d6d450a88aacb8c730aac074df5062a8da705b0093df8a62b1f3147f9a8aef6854e07973
 Homepage: [https://gitee.com/gfdgd-xi/uengine-runner, https://github.com/gfdgd-xi/uengine-runner]
 Description: UEngine Runner for deepin and UOS
 
+Package: org.js.flameshot
+Architecture: amd64
+Version: 12.1.1
+Priority: optional
+Section: graphics
+Maintainer: ziggy <luzijie@uniontech.com>
+Installed-Size: 3464
+Depends: hicolor-icon-theme, libqt5svg5 (>= 5.9.0~), libc6 (>= 2.14), libgcc1 (>= 1:3.0), libqt5core5a (>= 5.11.0~rc1), libqt5dbus5 (>= 5.9.0~), libqt5gui5 (>= 5.10.0), libqt5network5 (>= 5.9.0~), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 5.2), deepin-elf-verify (>= 1.1.10-1)
+Recommends: xdg-desktop-portal-gtk | xdg-desktop-portal-gnome | xdg-desktop-portal-kde | xdg-desktop-portal-wlr, grim
+Suggests: ca-certificates, openssl
+Breaks: flameshot
+Replaces: flameshot
+Filename: ./o/org.js.flameshot/org.js.flameshot_12.1.1_amd64.deb
+Size: 728300
+MD5sum: a80792d8a570b71e4021902718c37cc6
+SHA1: 4feb080e9b6ebef7d5042ce0ef8330ca03fd7797
+SHA256: 327ded72002eb149c07c908751b6b2d15ada1b25a774a821b0a489eec6f4b4b8
+SHA512: 81fd9ceb8eca2eeac2eaa90519ae1bf8712cec5952d669bf7c85a4a6a4689d874ce8babd4757926b9931bee6e2ae79655ebb419f083eb22a6028f25c76874cf2
+Homepage: https://flameshot.org/
+Description: Powerful yet simple-to-use screenshot software Flameshot is a powerful yet simple-to-use screenshot software. Notable features include customizable appearance, in-app screenshot editing, D-Bus interface, experimental GNOME/KDE Wayland support, integration with Imgur and support for both GUI and CLI interface.
+
+Package: org.js.flameshot
+Architecture: arm64
+Version: 12.1.1
+Priority: optional
+Section: graphics
+Maintainer: ziggy <luzijie@uniontech.com>
+Installed-Size: 3444
+Depends: hicolor-icon-theme, libqt5svg5 (>= 5.9.0~), libc6 (>= 2.14), libgcc1 (>= 1:3.0), libqt5core5a (>= 5.11.0~rc1), libqt5dbus5 (>= 5.9.0~), libqt5gui5 (>= 5.10.0), libqt5network5 (>= 5.9.0~), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 5.2), deepin-elf-verify (>= 1.1.10-1)
+Recommends: xdg-desktop-portal-gtk | xdg-desktop-portal-gnome | xdg-desktop-portal-kde | xdg-desktop-portal-wlr, grim
+Suggests: ca-certificates, openssl
+Breaks: flameshot
+Replaces: flameshot
+Filename: ./o/org.js.flameshot/org.js.flameshot_12.1.1_arm64.deb
+Size: 682064
+MD5sum: b20a5aefb2896d5566a5f5967a75e2ce
+SHA1: 810551a1297673705b9793b3ba15fc5066c44ff8
+SHA256: 7cde0cc5ee1530269b1f1738fd83b4ecbf7b7c964d6a090f6e35d1639b3b6930
+SHA512: 5792f096aba9247cb369e4aea72e396e262d49fceee3d69875b51d7e5c565747dc7319a7ddef93f422df81007e626e4dbe59a5e0de27b0c68f1882119580fc8e
+Homepage: https://flameshot.org/
+Description: Powerful yet simple-to-use screenshot software Flameshot is a powerful yet simple-to-use screenshot software. Notable features include customizable appearance, in-app screenshot editing, D-Bus interface, experimental GNOME/KDE Wayland support, integration with Imgur and support for both GUI and CLI interface.
+
 Package: pardus-boot-repair
 Architecture: all
 Version: 0.4.0
