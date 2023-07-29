@@ -1412,6 +1412,56 @@ SHA512: bab1a71c8269ac602884df950e87e62819552e2533775a72723dd27950e24979b081334c
 Homepage: https://gitee.com/gfdgd-xi/optical-drive-tray-control
 Description: 一款基于 Python3 的 PyQt 制作成的光驱托盘控制软件
 
+Package: sunloginclient
+Architecture: amd64
+Version: 11.0.1.44968
+Priority: extra
+Section: Internet
+Maintainer: Oray <dev@oray.com>
+Installed-Size: 38100
+Depends: libappindicator3-1
+Recommends: libwebkit2gtk-4.0.37,libwebkitgtk-3.0-0
+Filename: ./s/sunloginclient/sunloginclient_11.0.1.44968_amd64.deb
+Size: 20741804
+MD5sum: ff1c007eeb9e640605231917f08a2916
+SHA1: df659367827a14aa20ed20ef830cc505d0c872c4
+SHA256: 9c1d63e8a1f9409bc3e19052ebf0d82b13a058b62463f07dcf0195cb65fb2bcc
+SHA512: 4ccc738b1fcd94aa1fe2d1acf620b5b32eda664a840c15052c615f4a417171159ccd342c2df96ce3f987a8540e57e17f7957821f7c953de0f95d7f20d74b7d90
+Homepage: https://www.oray.com
+Description: SunloginClient-11.0.1.44968 for Linux
+ Sunlogin Remote Control is a software that supports remote control of mobile
+ devices, Windows, Mac, Linux and other systems. It is the best choice for IT
+ technology, game players, designers and other people with remote management
+ needs. By using Sunlogin, you can control other computers or mobile phones
+ anytime, anywhere. You can make things feasible, including remote high-risk
+ operations, remote power on/off, download files, AFK, and so on. Download
+ Sunlogin and explore more exciting features!
+
+Package: sunloginclient
+Architecture: arm64
+Version: 11.0.1.44968
+Priority: extra
+Section: Internet
+Maintainer: Oray <dev@oray.com>
+Installed-Size: 38100
+Depends: libappindicator3-1
+Recommends: libwebkit2gtk-4.0.37,libwebkitgtk-3.0-0
+Filename: ./s/sunloginclient/sunloginclient_11.0.1.44968_arm64.deb
+Size: 18985296
+MD5sum: ceaade5cf6f5ac12072147314e622470
+SHA1: c45f34d171e85df9737e23a7219d4b63574f4b5d
+SHA256: 4d34fdea6c4ca7421acbb3ee791ea4d1470ff4fd567204f00a09042cfd547c09
+SHA512: cd1763ac4635c675c26795577a48bb5256b3538ccb11b24b08c436301dbc5a82d75094684e9b9524e083915e3a2e50debe5e2300ba5c250bfa4b112c32ac6733
+Homepage: https://www.oray.com
+Description: SunloginClient-11.0.1.44968 for Linux
+ Sunlogin Remote Control is a software that supports remote control of mobile
+ devices, Windows, Mac, Linux and other systems. It is the best choice for IT
+ technology, game players, designers and other people with remote management
+ needs. By using Sunlogin, you can control other computers or mobile phones
+ anytime, anywhere. You can make things feasible, including remote high-risk
+ operations, remote power on/off, download files, AFK, and so on. Download
+ Sunlogin and explore more exciting features!
+
 Package: spark-webapp-runtime-runner
 Architecture: all
 Version: 1.1.0
