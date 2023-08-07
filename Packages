@@ -4156,6 +4156,42 @@ SHA512: 170b01772051ea157c63f4a5e7f372eab5e85d57639cecb1f6e589100e75a9c87a2790ab
 Homepage: https://gitee.com/gfdgd-xi/uengine-apk-builder
 Description: gfdgd xi make's uengine apk builder
 
+Package: spark-waydroid-runner
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 2920
+Depends: python3, deepin-terminal | mate-terminal | gnome-terminal | xfce4-terminal, curl, python3-requests, adb, fonts-noto-cjk, python3-numpy, wget, inotify-tools, aria2, python3-pyqt5, python3-matplotlib, python3-urllib3, zenity
+Recommends: waydroid, waydroid-android-image-gapps | waydroid-android-image-vanilla, aapt
+Filename: ./s/spark-waydroid-runner/spark-waydroid-runner_1.0.0_all.deb
+Size: 695452
+MD5sum: aeb1a36452e93c78007bfb5dd3be169d
+SHA1: 7bbdb2895fb362f2c132bec23d3b9bf54c4151e6
+SHA256: 46cf0a61e8c30a3f86c33aa1f8c8d6b505cfaabfc61b0a6aef87b3a0d49f5760
+SHA512: dd0b0fc185472e9374aab0923ed6e11bfaa175c60038ccdd141b8a9b2d5fea1649bf56760eca8292bc9fd99c5e88625165121ddaf196b9d9e720a8a189a446dc
+Homepage: https://gitee.com/gfdgd-xi/waydroid-runner
+Description: Waydroid 运行器
+
+Package: spark-waydroid-runner
+Architecture: all
+Version: 1.0.0.1
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 2920
+Depends: python3, deepin-terminal | mate-terminal | gnome-terminal | xfce4-terminal, curl, python3-requests, adb, fonts-noto-cjk, python3-numpy, wget, inotify-tools, aria2, python3-pyqt5, python3-matplotlib, python3-urllib3, zenity
+Recommends: waydroid, waydroid-android-image-gapps | waydroid-android-image-vanilla, aapt
+Filename: ./s/spark-waydroid-runner/spark-waydroid-runner_1.0.0.1_all.deb
+Size: 695692
+MD5sum: ea0bececf45883dfbc1b8e31f2889042
+SHA1: 4a292228d0dc05d6e137e6def7b8bbfd9d948624
+SHA256: 1b389e117803f23b449722d8e86bd5dd029e0f0ee828acd550a858b7e28645e1
+SHA512: f7d30559da945fbfbdd042f01488c70de098564d7e007e237622766a817f22c88e0a852010176b63030e249d25bac041593801c7e67b2141e5678546c3f1cb72
+Homepage: https://gitee.com/gfdgd-xi/waydroid-runner
+Description: Waydroid 运行器
+
 Package: spark-uengine-runner
 Architecture: all
 Version: 1.2.2test
