@@ -1,0 +1,18 @@
+Package: cn.huorong.esm
+Architecture: amd64
+Version: 2.0.6.0
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: Huorong Unix Team <unix-dev@huorong.cn>
+Installed-Size: 77643
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: ./c/cn.huorong.esm/cn.huorong.esm_2.0.6.0_amd64.deb
+Size: 31533532
+MD5sum: f0ee226fece3b7e701977a642ec07ce3
+SHA1: e8b0f0a370cbc7e2781990b25a26d126b184bb72
+SHA256: 343d0ea2b437bab7190115c9caf3e2cbb1ecf7c1dae34d604baa0d3641864dca
+SHA512: 64050455e322aedbb242a85161b94ab26a5873c04572ffea859377af360fc40eb120eb73e2b09e62c7d5fb14e6b337c9026eacbbb6761b9f0c3b5f4eb3952d8b
+Homepage: https://huorong.cn
+Description: 火绒终端安全管理系统
+

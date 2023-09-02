@@ -1,0 +1,25 @@
+Package: realvnc-vnc-viewer
+Architecture: amd64
+Version: 7.6.0.50657
+Priority: optional
+Section: x11
+Source: realvnc-vnc
+Maintainer: RealVNC <noreply@realvnc.com>
+Installed-Size: 11700
+Depends: libc6 (>= 2.3), libgcc1 (>= 1:4.1.1), libx11-6, libxext6
+Conflicts: vnc-e, xtightvncviewer
+Filename: ./r/realvnc-vnc-viewer/realvnc-vnc-viewer_7.6.0.50657_amd64.deb
+Size: 3739776
+MD5sum: 42251aed5b6503af1fbeaec1208d0eae
+SHA1: 2d215c10f77164b6192c524165b04f393657e548
+SHA256: 394ad2c5a87f7dd7a492938b64403ff2efc94a446d505ca506dca04fdb572f17
+SHA512: b8613a4866e4f79ddb41babc0dd732b1cb9bf9ea3da0d63e7204bd727f958b45528b61b75d6c2e4029722eac1dbbb2c0cbe5ddb3b5d7e21773093ee34a1411ac
+Homepage: https://www.realvnc.com/
+Description: VNC® Viewer
+ VNC Viewer, from RealVNC, the original inventor of VNC technology, is remote access
+ software that enables you to securely connect to and control a remote
+ computer.
+ RealVNC recommends the realvnc-vnc-server package (VNC Server) for the
+ remote computer, for seamless, secure and reliable connections. A free trial
+ is available.
+

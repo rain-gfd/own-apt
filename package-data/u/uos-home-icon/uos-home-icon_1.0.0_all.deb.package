@@ -1,0 +1,15 @@
+Package: uos-home-icon
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: default
+Maintainer: gfdgd xi <3025613752@qq.com>
+Filename: ./u/uos-home-icon/uos-home-icon_1.0.0_all.deb
+Size: 1883984
+MD5sum: eb5300b597fc32aedb63ae281f516000
+SHA1: 1dc73534e57b56e445e7523dce933fe4e98ce01b
+SHA256: 16a228b657fcf2117012bc20dbb12333d50ff68e568208afa6f8cf221da72591
+SHA512: 466ef262d2d71f014d7942b7ef10e95296297b5d3913f67ab1d47c7b73fe5cf52deb7dc379b645c573028b4c82d9ec591da3bea99f5c8b3686b34d2a795a497d
+Homepage: https://home.uniontech.com/
+Description: Icon For UOS Home
+

@@ -1,0 +1,27 @@
+Package: realvnc-vnc-server
+Architecture: amd64
+Version: 7.6.0.50657
+Priority: optional
+Section: x11
+Source: realvnc-vnc
+Maintainer: RealVNC <noreply@realvnc.com>
+Installed-Size: 39758
+Depends: libc6 (>= 2.3), libgcc1 (>= 1:4.1.1), libx11-6, libxext6, libxtst6
+Recommends: cups
+Suggests: avahi-daemon
+Conflicts: tightvncserver, vnc-e, vnc4server
+Replaces: vnc-e
+Filename: ./r/realvnc-vnc-server/realvnc-vnc-server_7.6.0.50657_amd64.deb
+Size: 8351868
+MD5sum: e2a618538f3a81d0594992c73a029a14
+SHA1: e74487287179ec9fdb51265190e52f099911016b
+SHA256: a5cc4f63aa2a16898aeba14574b65328751513e84c7fff930045f525e656f889
+SHA512: 2efb303a7b106371334e6addc3f676538c7836f27668aa61ec4a7b6d948e493556375932457b65c896450adaa15199511f760426d853b9cfb0783c6b3f7839bc
+Homepage: https://www.realvnc.com/
+Description: VNC® Server
+ VNC Server, from RealVNC, the original inventor of VNC technology, is remote access
+ software that enables you to securely share one or more desktops on this
+ computer with any number of other computers or devices.
+ RealVNC recommends the realvnc-vnc-viewer package (VNC Viewer) for these other
+ computers and devices, for seamless, secure and reliable connections.
+

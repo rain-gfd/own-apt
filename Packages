@@ -19,6 +19,40 @@ Homepage: http://www.deepin.org
 Description: Release version of deepin installer
  New version of deepin-installer, rewritten with Qt5.
 
+Package: deepin-children-icon
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: default
+Maintainer: gfdgd xi <3025613752@qq.com>
+Filename: ./d/deepin-children-icon/deepin-children-icon_1.0.0_all.deb
+Size: 2511800
+MD5sum: 8f2a2c2c2d93b1e1fb0ae22fb8a742b8
+SHA1: 73151860535b98abb772bdba14659245f14cd95e
+SHA256: 3f15714c3db61c59dd8772755d287e88dcc5da5d3890006e1509e68b7a2e527b
+SHA512: 1fd91793b2573f1c5ebb66ee6e28542d34a50d637df6f7f027112563da172a282d1340913097d749747e4de9f9fabfcafbd570ad76594b34049b924255bbe60f
+Homepage: https://home.uniontech.com/
+Description: Icon For UOS 22 Children Mode
+
+Package: deepin-icon-theme
+Architecture: all
+Version: 2023.04.03+u004
+Priority: optional
+Section: x11
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 152442
+Depends: papirus-icon-theme
+Conflicts: deepin-cursor-theme
+Filename: ./d/deepin-icon-theme/deepin-icon-theme_2023.04.03+u004_all.deb
+Size: 28860508
+MD5sum: 4c10cbaced4de379b9ba154fb6c4b116
+SHA1: d6a04499ce8f6c0dcc245921a6bc31dbdb724043
+SHA256: 6fb2075e323fb66cecab9da66242b7a63150ace191fe77d0537c8b4d848382eb
+SHA512: b0d069ba4390afd9063bb0998f5eae37a721b030a28a1e2bdd78859e46a0f87a6cd4313a52b94fa1331b3458897ca2711cb12b326244f28931ee8f6c1e022570
+Homepage: https://github.com/linuxdeepin/deepin-icon-theme
+Description: Deepin Icons
+ This package is DeepinIconTheme
+
 Package: deepin-community-live-cd-env-install
 Architecture: amd64
 Version: 1.0.6
@@ -59,6 +93,50 @@ SHA1: eeb2605fd940eb1d5529ae03141c1e2f9fb55766
 SHA256: 7d76195115cc4bfb388014429b3bcdd6451926b6f3c16f1e527b3fc29eafc33d
 SHA512: f7ef7eeac961e3aa47e611003b3cac690a93de7d99cdc5badfad470bef1de3dae294ab5b464239a3a2108dfddcfa37ddfc45f54aff1304aa67582e31a7664451
 Description: App Store For Deepin Community Live CD
+
+Package: firefox-spark
+Architecture: amd64
+Version: 117.0
+Priority: optional
+Section: web
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 214784
+Provides: x-www-browser,gnome-www-browser,firefox(=116.0.2)
+Depends: libdbus-glib-1-2,aria2,zenity
+Recommends: speech-dispatcher
+Conflicts: firefox
+Filename: ./f/firefox-spark/firefox-spark_117.0_amd64.deb
+Size: 2716
+MD5sum: 8b7b3151928214d7ee09c5654d78976b
+SHA1: daca4346e05a5199c8a57f810b50f9bd1f8e4984
+SHA256: 7aa6c3494a14fe4af649e8aee962377acc45e3a1864b1137d1194436d5f41e1b
+SHA512: 858df4887b3b411bc612eea92625a9b1693b591dec92dde598c969a54cb1ba1d4dcad41242bf91343ccacc1a9b09ecad254c21620d46db06f65d697145a87d35
+Homepage: https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release
+Description: 一款开源自由的浏览器，修改了权限以支持自动更新，每次安装时下载以保证下载到的就是最新的
+Repaces: firefox
+
+Package: flameshot
+Architecture: amd64
+Version: 12.1.0-1
+Priority: optional
+Section: graphics
+Maintainer: Boyuan Yang <byang@debian.org>
+Installed-Size: 3446
+Depends: hicolor-icon-theme, libqt5svg5 (>= 5.9.0~), libc6 (>= 2.14), libgcc1 (>= 1:3.0), libqt5core5a (>= 5.11.0~rc1), libqt5dbus5 (>= 5.9.0~), libqt5gui5 (>= 5.10.0), libqt5network5 (>= 5.9.0~), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 5.2)
+Recommends: xdg-desktop-portal-gtk | xdg-desktop-portal-gnome | xdg-desktop-portal-kde | xdg-desktop-portal-wlr, grim
+Suggests: ca-certificates, openssl
+Filename: ./f/flameshot/flameshot_12.1.0-1_amd64.deb
+Size: 698932
+MD5sum: cb49cc6f105dab6785ee21bd3f6a79d0
+SHA1: 210e09cd358dbba16b9e05df51027e780da8271e
+SHA256: 33132ac63c64eb2a37de39d3d5bf4fd09266166c912d1cc0b26ea8eb0e9f27de
+SHA512: c795d6dbd2b4acc86e0dcb1f3f8f279cf3179c32fe151c35cee2a149794311caeacc10816f1760c6e8c6cd416f5f27138a6f63e60ecbb525b078dc739725061d
+Homepage: https://github.com/flameshot-org/flameshot
+Description: Powerful yet simple-to-use screenshot software
+ Flameshot is a powerful yet simple-to-use screenshot software.
+ Notable features include customizable appearance, in-app screenshot editing,
+ D-Bus interface, experimental GNOME/KDE Wayland support, integration with
+ Imgur and support for both GUI and CLI interface.
 
 Package: com.gitee.uengine.runner.spark.ubuntu
 Architecture: all
@@ -101,6 +179,24 @@ SHA512: ad10827b687ad4270c82eab33cb57c5aea010349749fb30f19250b7670b4059f5ce7f526
 Description: 自定义主题（内包含 壁纸、光标、字体）
  JingOS 主题
 
+Package: com.github.ccc-app-manager
+Architecture: amd64
+Version: 0.0.11
+Priority: optional
+Section: unknown
+Maintainer: keke <243768648@qq.com>
+Installed-Size: 488
+Depends: libc6 (>= 2.28), libgcc1 (>= 1:3.4), libgl1, libqt5core5a (>= 5.11.0~rc1), libqt5gui5 (>= 5.8.0), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libdtkcore5 (>= 5.4), libdtkgui5 (>= 5.4), libdtkwidget5 (>= 5.4)
+Filename: ./c/com.github.ccc-app-manager/com.github.ccc-app-manager_0.0.11_amd64.deb
+Size: 188260
+MD5sum: 9829c1ab52ef3f1d6d706637e2511cf6
+SHA1: c5c82429a0ac8bae625aa9b42e48237068742e36
+SHA256: e557580899f069e40f4bfd3c4d859e41526498663bfd7dc32feda57e8eaa38eb
+SHA512: 7806e0f1b2b87ed3693b79c94ddbe3f72f1e680a94025a9c887f3352a883673bb2de665a71edc042118080864d1a42052423f20012da3b4151178a3a484f39b7
+Homepage: https://gitee.com/ct243768648/ccc-app-manager
+Description: manage your applications.
+ 应用管理器，可查看应用包信息，可卸载和打开应用，可在线或离线提取安装包。支持deepin、uos系统。
+
 Package: com.uniontech.theme.gfdgdxi.easymousethemes
 Architecture: all
 Version: 1.0.0
@@ -108,14 +204,31 @@ Priority: optional
 Section: admin
 Maintainer: 3025613752 <3025613752@qq.com>
 Installed-Size: 1104
+Depends: deepin-elf-verify (>= 1.1.10-1)
 Filename: ./c/com.uniontech.theme.gfdgdxi.easymousethemes/com.uniontech.theme.gfdgdxi.easymousethemes_1.0.0_all.deb
-Size: 35296
-MD5sum: c085e18da7da632f33af4e6375c7e2ef
-SHA1: 5fbe2ce320aba08e87924521462b7cba52fcd7ed
-SHA256: fa15f083bd659a93d23069480073949db867792a5dd19cc7464cc7e67be2eb56
-SHA512: 8da3322f808539816c7ecf91665f7a0c70a2c4d92b6dba0017fbebda83b03249239d96920cfe4e57443e3b41e3ca02c90396c268887b151968ca6e4caa79b59b
-Description: 自定义主题（内包含 壁纸、光标、字体）
- Easy-Mouse-Themes
+Size: 53904
+MD5sum: 62c00644d7739b0a405343eb88f1ac77
+SHA1: 4a0a410b63dd7da988730df6973797587af10a77
+SHA256: 4fea5a800059d9844d6ce763798cb1c273c8dd799581b107c6474ffd4c69c492
+SHA512: 4def1b89dfda47ccbff72116d3817a74e434795d5312b1ee72b78de134c2de66b41b359df33895d62a7662526b306f260d6ba36f1b6217e806671addb2f338b3
+Description: 自定义主题（内包含 壁纸、光标、字体） Easy-Mouse-Themes
+
+Package: com.hmja.notepad
+Architecture: amd64
+Version: 2.7.0.0
+Priority: optional
+Section: editors
+Maintainer: ndd开源组织 <757210198@qq.com>
+Installed-Size: 41532
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: ./c/com.hmja.notepad/com.hmja.notepad_2.7.0.0_amd64.deb
+Size: 8492824
+MD5sum: 9a8ca80f56642ed76d6f032e801f47d6
+SHA1: fba4cfe0df4293bc2aa6d587db127fd3a645a558
+SHA256: 853bbbb3a98984cbccee375f40052307c84b35f32d95791f6e3fe627631ad770
+SHA512: 6afcc62f7fa4a0f92fb725793d30dc5c1c06cbea575e358be844be8fe8a056f838b24c16314c63042c0697b30e2d69fa183cdde75c5b9f3688ed754c7814a6be
+Homepage: www.itdp.cn
+Description: notepad for uos ， 支持文本编辑和文件对比。
 
 Package: com.uniontech.theme.jingos
 Architecture: all
@@ -851,6 +964,59 @@ Description: UEngine 运行器，1.8.2 更新内容：
  7、新增部分资源入口
  开发/参与者：gfdgd xi <3025613752@qq.com>, actionchen<917981399@qq.com>, 柚子<https://gitee.com/Limexb>, 为什么您不喜欢熊出没和阿布呢<https://weibo.com/u/7755040136>, 星空露光<https://gitee.com/Cynorkyle>, shenmo<jifengshenmo@outlook.com>
 
+Package: cn.huorong.esm
+Architecture: amd64
+Version: 2.0.6.0
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: Huorong Unix Team <unix-dev@huorong.cn>
+Installed-Size: 77643
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: ./c/cn.huorong.esm/cn.huorong.esm_2.0.6.0_amd64.deb
+Size: 31533532
+MD5sum: f0ee226fece3b7e701977a642ec07ce3
+SHA1: e8b0f0a370cbc7e2781990b25a26d126b184bb72
+SHA256: 343d0ea2b437bab7190115c9caf3e2cbb1ecf7c1dae34d604baa0d3641864dca
+SHA512: 64050455e322aedbb242a85161b94ab26a5873c04572ffea859377af360fc40eb120eb73e2b09e62c7d5fb14e6b337c9026eacbbb6761b9f0c3b5f4eb3952d8b
+Homepage: https://huorong.cn
+Description: 火绒终端安全管理系统
+
+Package: com.mozilla.firefox-zh
+Architecture: amd64
+Version: 116.0.3+fix1
+Priority: optional
+Section: web
+Maintainer: ziggy <luzijie@uniontech.com>
+Installed-Size: 228859
+Depends: libdbus-glib-1-2, deepin-elf-verify (>= 1.1.10-1)
+Filename: ./c/com.mozilla.firefox-zh/com.mozilla.firefox-zh_116.0.3+fix1_amd64.deb
+Size: 62051192
+MD5sum: 29ee43ce5212eeb9e5af97e587f2af26
+SHA1: ed1e77df04255ef2b6d032aa13a116aa0c6b3c9e
+SHA256: 6741d1b05df9de64a047994d78f64c4b9471d0f953144ca276d41b486a37ae43
+SHA512: 446a2d71deb0f9719294706b1ae8435b047b780450b178ca2f2681dd4978822f53c6aac6f1f3e91b089566b87289c417930b73d7470af0740d2b1ec63850e259
+Homepage: https://www.firefox.com.cn/
+Description: No shady privacy policies or back doors for advertisers.   Just a lightning fast browser that doesn�0�3�0�4t sell you out.
+
+Package: x11vnc-autoservice
+Architecture: all
+Version: 0.0.1
+Priority: optional
+Section: devel
+Maintainer: zinface <zinface@163.com>
+Installed-Size: 25
+Filename: ./x/x11vnc-autoservice/x11vnc-autoservice_0.0.1_all.deb
+Size: 1324
+MD5sum: ba48387988af02c9720523e0e3bc3145
+SHA1: 61dfcfb0ed28713fa2134131766ecee676e9a791
+SHA256: 163dcd36c6aa7203663183c53a10ce653d864e8587add2f39ff3e58bb583a748
+SHA512: 051ab7fcbf16d5ba95962f01a2508ecde3dd6bcc30ee81dd276149ca5cb4c0a3db2a042d0ae222de3ec7622151846a5a44103afae4f21691a3b05e660ceee28d
+Homepage: https://gitee.com/zinface/x11vnc-autoservice
+Description: auto-generated package by cmake-package-deb
+  x11vnc 的用户服务，在 x11vnc 崩溃时会自动重启 x11vnc.
+ 开启用户登录时自动启动该服务 systemctl --user enable x11vnc.service
+
 Package: gx-env-runner
 Architecture: all
 Version: 1.0.1
@@ -926,6 +1092,21 @@ SHA1: 520759f59a943819c1007d961cc4ce2c7010d7be
 SHA256: a498a83a9ba2910a5beb6966f4efb54fd118664c2c14a19efc44366c067f3242
 SHA512: 603e8e8a6e5d92ca29690c2c4b08a0bf365e9d8fe7f0f8e216de5d071a11f13d96183e18eb829c34a58802307f9ad007a659469ee790ae1b72e862f9bd7a6e10
 Description: Ghost For Deepin Community Live CD
+
+Package: uos-home-icon
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: default
+Maintainer: gfdgd xi <3025613752@qq.com>
+Filename: ./u/uos-home-icon/uos-home-icon_1.0.0_all.deb
+Size: 1883984
+MD5sum: eb5300b597fc32aedb63ae281f516000
+SHA1: 1dc73534e57b56e445e7523dce933fe4e98ce01b
+SHA256: 16a228b657fcf2117012bc20dbb12333d50ff68e568208afa6f8cf221da72591
+SHA512: 466ef262d2d71f014d7942b7ef10e95296297b5d3913f67ab1d47c7b73fe5cf52deb7dc379b645c573028b4c82d9ec591da3bea99f5c8b3686b34d2a795a497d
+Homepage: https://home.uniontech.com/
+Description: Icon For UOS Home
 
 Package: uos-livecdtools
 Architecture: amd64
@@ -1324,6 +1505,27 @@ Description: Spark WebApp Runtime
 
 Package: spark-store-console
 Architecture: all
+Version: 4.2.7.1
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 1187
+Provides: spark-store(=4.2.6.2)
+Depends: wget,aria2, zenity, policykit-1, libnotify-bin, python3, desktop-file-utils,curl
+Conflicts: spark-store
+Replaces: spark-store(=4.2.6.2)
+Filename: ./s/spark-store-console/spark-store-console_4.2.7.1_all.deb
+Size: 57796
+MD5sum: 35a6bc392c750cd3fee3802d23d75dbe
+SHA1: d23f612134661b1feb5d3e431344243240eb3c34
+SHA256: 70cc9bbfbf050c91834e93ac63a3917b3ce876d355d32edb11bb0674366c9625
+SHA512: d587bc16c7d699341b8c063c1778127c02a0ec4869cd74b1a4a68b4a2ce42c0c717ea8561e8c45c498afd5441471ab055f842be84c87fe9ef70975cb81fb8a98
+Homepage: https://www.spark-app.store/
+Description: Spark Store
+ A community powered app store, based on DTK.
+
+Package: spark-store-console
+Architecture: all
 Version: 1.2.0
 Priority: optional
 Maintainer: gfdgd xi <3025613752@qq.com>
@@ -1583,6 +1785,24 @@ Homepage: https://gitee.com/gfdgd-xi/spark-webapp-runtime-runner/
 Description: gfdgd xi、为什么您不喜欢熊出没和阿布呢 制作的spark-webapp-runtime-runner
 
 Package: spark-store
+Architecture: amd64
+Version: 4.2.7.1
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 1152
+Depends: libc6 (>= 2.14), libdtkcore5 (>= 5.4), libdtkgui5 (>= 5.4), libdtkwidget5 (>= 5.4), libgcc1 (>= 1:3.0), libgl1, libqt5concurrent5 (>= 5.0.2), libqt5core5a (>= 5.11.0~rc1), libqt5dbus5 (>= 5.5.0), libqt5gui5 (>= 5.10.0), libqt5network5 (>= 5.0.2), libqt5positioning5 (>= 5.6.0), libqt5printsupport5 (>= 5.0.2), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5webchannel5 (>= 5.6.1), libqt5webenginecore5 (>= 5.7.1), libqt5webenginewidgets5 (>= 5.7.1), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 5.2), qtwayland5, curl, openssl, dde-qt5integration, aria2, gnupg, zenity, policykit-1, libnotify-bin, desktop-file-utils
+Filename: ./s/spark-store/spark-store_4.2.7.1_amd64.deb
+Size: 604668
+MD5sum: acfc750deb3d682dea9ddb7848a3fa06
+SHA1: df2b13b4c9ed6adacba9a6940f5d7f74a1d2b0ae
+SHA256: f4e220bb3cc6447cec6c8663a6ffcd835d74f72cf6e44cecdf9b1ca99fb07639
+SHA512: fbf725b1b54dbd73118d9f836e1cd2b88cb388ec87df1b7fe267cb152a777c69e54bfcd3adbb3e4ed65b45278b0647ed5e2f2b0ed800d1c899d5e6559ba2385d
+Homepage: https://www.spark-app.store/
+Description: Spark Store
+ A community powered app store, based on DTK.
+
+Package: spark-store
 Architecture: arm64
 Version: 4.2.6.2-fix1
 Priority: optional
@@ -1631,6 +1851,24 @@ MD5sum: 1e84c8212420a7e5daa9f2322632d6b2
 SHA1: d82053554a8d016a868c78a111be7bee71bc2a0e
 SHA256: 777abbf41d1bbbf039a95835d7bb98c19610fb4e4f497804304ef569ed6deecd
 SHA512: 9da7cde2ce8d49cc1d7d4ebc2f259403fc7107b882297b98d7e6fa704369ec61ba724eea7d7eaa840a942f481747c1dbf4776903f7d569ee66b3f1a645520fb2
+Homepage: https://www.spark-app.store/
+Description: Spark Store
+ A community powered app store, based on DTK.
+
+Package: spark-store
+Architecture: arm64
+Version: 4.2.7.1
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 1157
+Depends: libc6 (>= 2.17), libdtkcore5 (>= 5.2), libdtkgui5 (>= 5.2), libdtkwidget5 (>= 5.2), libgcc1 (>= 1:3.0), libgl1, libqt5concurrent5 (>= 5.0.2), libqt5core5a (>= 5.7.0), libqt5dbus5 (>= 5.5.0), libqt5gui5 (>= 5.10.0), libqt5network5 (>= 5.0.2), libqt5positioning5 (>= 5.6.0), libqt5printsupport5 (>= 5.0.2), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5webchannel5 (>= 5.6.1), libqt5webenginecore5 (>= 5.7.1), libqt5webenginewidgets5 (>= 5.7.1), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 5.2), qtwayland5, curl, openssl, dde-qt5integration, aria2, gnupg, zenity, policykit-1, libnotify-bin, desktop-file-utils
+Filename: ./s/spark-store/spark-store_4.2.7.1_arm64.deb
+Size: 591920
+MD5sum: 99035359217f6a2d3a54aceabed6f15a
+SHA1: 53d88cca35768e4f134f0aa400c15fb5835a36e7
+SHA256: 9fbd9a12050f53e0216af8b12d22ce58007bb135afd84f3f46ba7144aa7934b0
+SHA512: 9441edd399b513901d07d85a2a8d0575c37b46535777bca575f7a2c3497780ae11760e358b1be3bbb022f560512abba1bacd320375872458fecbc8d2343d6687
 Homepage: https://www.spark-app.store/
 Description: Spark Store
  A community powered app store, based on DTK.
@@ -1854,6 +2092,27 @@ MD5sum: 0aa3b98213787c241d0b6579465db7d3
 SHA1: 301831928221bd8574716d9be21ef873c3c44afb
 SHA256: 6324852320e586712798c568d961ba9230b6e5b32dcb535c9dbf3cc8f2ecb9ec
 SHA512: 091cc1d41491d095ca89080bcc7027f5ac7a92227a4352f5be40ec137a5ec1b4a636b1d2b7374149ab3af8e688b4ee662ef2c1e9f476b2a0e2d5412f3de741e6
+Homepage: https://gitee.com/deepin-community-store/spark-wine
+Description: Spark Deepin Wine Helper
+
+Package: spark-dwine-helper
+Architecture: all
+Version: 2.4.0.2
+Multi-Arch: foreign
+Priority: extra
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 184
+Provides: store.spark-app.spark-dwine-helper(=2.4.0.2)
+Depends: zenity, p7zip-full, fonts-noto-cjk,transhell
+Recommends: spark-dwine-helper-settings
+Replaces: store.spark-app.spark-dwine-helper(<=2.4.0.2)
+Filename: ./s/spark-dwine-helper/spark-dwine-helper_2.4.0.2_all.deb
+Size: 13156
+MD5sum: bb0b7f175b87f77d5e1a9f13adacf217
+SHA1: ac73fa3f0001ba6846c98321058138c834e79755
+SHA256: c9e30e244814eeb1aa2860954494a36788cbe9325100249aa4fe55fb50849c27
+SHA512: 27ead57ef2c7d72392cba671fb63442bd77a87c3f8fd469878a970e29bddbc86bc0a9fc87ad0f553b75b9cedff3dbb18732d8667f9d9e4d60f64372dd0b67764
 Homepage: https://gitee.com/deepin-community-store/spark-wine
 Description: Spark Deepin Wine Helper
 
@@ -4904,6 +5163,58 @@ SHA512: 5792f096aba9247cb369e4aea72e396e262d49fceee3d69875b51d7e5c565747dc7319a7
 Homepage: https://flameshot.org/
 Description: Powerful yet simple-to-use screenshot software Flameshot is a powerful yet simple-to-use screenshot software. Notable features include customizable appearance, in-app screenshot editing, D-Bus interface, experimental GNOME/KDE Wayland support, integration with Imgur and support for both GUI and CLI interface.
 
+Package: realvnc-vnc-server
+Architecture: amd64
+Version: 7.6.0.50657
+Priority: optional
+Section: x11
+Source: realvnc-vnc
+Maintainer: RealVNC <noreply@realvnc.com>
+Installed-Size: 39758
+Depends: libc6 (>= 2.3), libgcc1 (>= 1:4.1.1), libx11-6, libxext6, libxtst6
+Recommends: cups
+Suggests: avahi-daemon
+Conflicts: tightvncserver, vnc-e, vnc4server
+Replaces: vnc-e
+Filename: ./r/realvnc-vnc-server/realvnc-vnc-server_7.6.0.50657_amd64.deb
+Size: 8351868
+MD5sum: e2a618538f3a81d0594992c73a029a14
+SHA1: e74487287179ec9fdb51265190e52f099911016b
+SHA256: a5cc4f63aa2a16898aeba14574b65328751513e84c7fff930045f525e656f889
+SHA512: 2efb303a7b106371334e6addc3f676538c7836f27668aa61ec4a7b6d948e493556375932457b65c896450adaa15199511f760426d853b9cfb0783c6b3f7839bc
+Homepage: https://www.realvnc.com/
+Description: VNC® Server
+ VNC Server, from RealVNC, the original inventor of VNC technology, is remote access
+ software that enables you to securely share one or more desktops on this
+ computer with any number of other computers or devices.
+ RealVNC recommends the realvnc-vnc-viewer package (VNC Viewer) for these other
+ computers and devices, for seamless, secure and reliable connections.
+
+Package: realvnc-vnc-viewer
+Architecture: amd64
+Version: 7.6.0.50657
+Priority: optional
+Section: x11
+Source: realvnc-vnc
+Maintainer: RealVNC <noreply@realvnc.com>
+Installed-Size: 11700
+Depends: libc6 (>= 2.3), libgcc1 (>= 1:4.1.1), libx11-6, libxext6
+Conflicts: vnc-e, xtightvncviewer
+Filename: ./r/realvnc-vnc-viewer/realvnc-vnc-viewer_7.6.0.50657_amd64.deb
+Size: 3739776
+MD5sum: 42251aed5b6503af1fbeaec1208d0eae
+SHA1: 2d215c10f77164b6192c524165b04f393657e548
+SHA256: 394ad2c5a87f7dd7a492938b64403ff2efc94a446d505ca506dca04fdb572f17
+SHA512: b8613a4866e4f79ddb41babc0dd732b1cb9bf9ea3da0d63e7204bd727f958b45528b61b75d6c2e4029722eac1dbbb2c0cbe5ddb3b5d7e21773093ee34a1411ac
+Homepage: https://www.realvnc.com/
+Description: VNC® Viewer
+ VNC Viewer, from RealVNC, the original inventor of VNC technology, is remote access
+ software that enables you to securely connect to and control a remote
+ computer.
+ RealVNC recommends the realvnc-vnc-server package (VNC Server) for the
+ remote computer, for seamless, secure and reliable connections. A free trial
+ is available.
+
 Package: pardus-boot-repair
 Architecture: all
 Version: 0.4.0
@@ -4996,4 +5307,20 @@ Description: Android utility library
  purely to get various Android utilities working.  In the Google builds of the
  Android SDK, this library is statically linked, but in the Debian packaging,
  it is a private shared library.
+
+Package: jingos-wallpapers
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: JingOS-team
+Installed-Size: 67920
+Filename: ./j/jingos-wallpapers/jingos-wallpapers_1.0.0_all.deb
+Size: 69154704
+MD5sum: 47dfa4aff3d43fe1dc64608c01eb8f48
+SHA1: ca14fc46c10663296e9c3b1fb211cdcec3909325
+SHA256: a0a7f4341062713ecde8b8a3faca759f598bf2bb9fb67c3003c3d7d2c7fad675
+SHA512: eef49b372ef687b170661bc70e22c8282fcaa610e97c8253e925ade0360edd1d75a5ea71c0079063de53b2b3bca44f45a614604960e5f80c314a10b90f7878b6
+Homepage: https://github.com/JingOS-team/
+Description: All Wallpapers From https://github.com/JingOS-team/
 

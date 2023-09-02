@@ -1,0 +1,17 @@
+Package: com.hmja.notepad
+Architecture: amd64
+Version: 2.7.0.0
+Priority: optional
+Section: editors
+Maintainer: ndd开源组织 <757210198@qq.com>
+Installed-Size: 41532
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: ./c/com.hmja.notepad/com.hmja.notepad_2.7.0.0_amd64.deb
+Size: 8492824
+MD5sum: 9a8ca80f56642ed76d6f032e801f47d6
+SHA1: fba4cfe0df4293bc2aa6d587db127fd3a645a558
+SHA256: 853bbbb3a98984cbccee375f40052307c84b35f32d95791f6e3fe627631ad770
+SHA512: 6afcc62f7fa4a0f92fb725793d30dc5c1c06cbea575e358be844be8fe8a056f838b24c16314c63042c0697b30e2d69fa183cdde75c5b9f3688ed754c7814a6be
+Homepage: www.itdp.cn
+Description: notepad for uos ， 支持文本编辑和文件对比。
+

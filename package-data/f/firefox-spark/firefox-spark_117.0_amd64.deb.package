@@ -1,0 +1,21 @@
+Package: firefox-spark
+Architecture: amd64
+Version: 117.0
+Priority: optional
+Section: web
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 214784
+Provides: x-www-browser,gnome-www-browser,firefox(=116.0.2)
+Depends: libdbus-glib-1-2,aria2,zenity
+Recommends: speech-dispatcher
+Conflicts: firefox
+Filename: ./f/firefox-spark/firefox-spark_117.0_amd64.deb
+Size: 2716
+MD5sum: 8b7b3151928214d7ee09c5654d78976b
+SHA1: daca4346e05a5199c8a57f810b50f9bd1f8e4984
+SHA256: 7aa6c3494a14fe4af649e8aee962377acc45e3a1864b1137d1194436d5f41e1b
+SHA512: 858df4887b3b411bc612eea92625a9b1693b591dec92dde598c969a54cb1ba1d4dcad41242bf91343ccacc1a9b09ecad254c21620d46db06f65d697145a87d35
+Homepage: https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release
+Description: 一款开源自由的浏览器，修改了权限以支持自动更新，每次安装时下载以保证下载到的就是最新的
+Repaces: firefox
+

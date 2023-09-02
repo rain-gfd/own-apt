@@ -1,0 +1,15 @@
+Package: deepin-children-icon
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: default
+Maintainer: gfdgd xi <3025613752@qq.com>
+Filename: ./d/deepin-children-icon/deepin-children-icon_1.0.0_all.deb
+Size: 2511800
+MD5sum: 8f2a2c2c2d93b1e1fb0ae22fb8a742b8
+SHA1: 73151860535b98abb772bdba14659245f14cd95e
+SHA256: 3f15714c3db61c59dd8772755d287e88dcc5da5d3890006e1509e68b7a2e527b
+SHA512: 1fd91793b2573f1c5ebb66ee6e28542d34a50d637df6f7f027112563da172a282d1340913097d749747e4de9f9fabfcafbd570ad76594b34049b924255bbe60f
+Homepage: https://home.uniontech.com/
+Description: Icon For UOS 22 Children Mode
+

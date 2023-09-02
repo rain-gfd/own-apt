@@ -1,0 +1,18 @@
+Package: x11vnc-autoservice
+Architecture: all
+Version: 0.0.1
+Priority: optional
+Section: devel
+Maintainer: zinface <zinface@163.com>
+Installed-Size: 25
+Filename: ./x/x11vnc-autoservice/x11vnc-autoservice_0.0.1_all.deb
+Size: 1324
+MD5sum: ba48387988af02c9720523e0e3bc3145
+SHA1: 61dfcfb0ed28713fa2134131766ecee676e9a791
+SHA256: 163dcd36c6aa7203663183c53a10ce653d864e8587add2f39ff3e58bb583a748
+SHA512: 051ab7fcbf16d5ba95962f01a2508ecde3dd6bcc30ee81dd276149ca5cb4c0a3db2a042d0ae222de3ec7622151846a5a44103afae4f21691a3b05e660ceee28d
+Homepage: https://gitee.com/zinface/x11vnc-autoservice
+Description: auto-generated package by cmake-package-deb
+  x11vnc 的用户服务，在 x11vnc 崩溃时会自动重启 x11vnc.
+ 开启用户登录时自动启动该服务 systemctl --user enable x11vnc.service
+

@@ -1,0 +1,16 @@
+Package: jingos-wallpapers
+Architecture: all
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: JingOS-team
+Installed-Size: 67920
+Filename: ./j/jingos-wallpapers/jingos-wallpapers_1.0.0_all.deb
+Size: 69154704
+MD5sum: 47dfa4aff3d43fe1dc64608c01eb8f48
+SHA1: ca14fc46c10663296e9c3b1fb211cdcec3909325
+SHA256: a0a7f4341062713ecde8b8a3faca759f598bf2bb9fb67c3003c3d7d2c7fad675
+SHA512: eef49b372ef687b170661bc70e22c8282fcaa610e97c8253e925ade0360edd1d75a5ea71c0079063de53b2b3bca44f45a614604960e5f80c314a10b90f7878b6
+Homepage: https://github.com/JingOS-team/
+Description: All Wallpapers From https://github.com/JingOS-team/
+

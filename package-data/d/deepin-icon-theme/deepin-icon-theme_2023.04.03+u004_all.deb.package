@@ -1,0 +1,19 @@
+Package: deepin-icon-theme
+Architecture: all
+Version: 2023.04.03+u004
+Priority: optional
+Section: x11
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 152442
+Depends: papirus-icon-theme
+Conflicts: deepin-cursor-theme
+Filename: ./d/deepin-icon-theme/deepin-icon-theme_2023.04.03+u004_all.deb
+Size: 28860508
+MD5sum: 4c10cbaced4de379b9ba154fb6c4b116
+SHA1: d6a04499ce8f6c0dcc245921a6bc31dbdb724043
+SHA256: 6fb2075e323fb66cecab9da66242b7a63150ace191fe77d0537c8b4d848382eb
+SHA512: b0d069ba4390afd9063bb0998f5eae37a721b030a28a1e2bdd78859e46a0f87a6cd4313a52b94fa1331b3458897ca2711cb12b326244f28931ee8f6c1e022570
+Homepage: https://github.com/linuxdeepin/deepin-icon-theme
+Description: Deepin Icons
+ This package is DeepinIconTheme
+

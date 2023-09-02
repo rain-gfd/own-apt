@@ -1,0 +1,17 @@
+Package: com.mozilla.firefox-zh
+Architecture: amd64
+Version: 116.0.3+fix1
+Priority: optional
+Section: web
+Maintainer: ziggy <luzijie@uniontech.com>
+Installed-Size: 228859
+Depends: libdbus-glib-1-2, deepin-elf-verify (>= 1.1.10-1)
+Filename: ./c/com.mozilla.firefox-zh/com.mozilla.firefox-zh_116.0.3+fix1_amd64.deb
+Size: 62051192
+MD5sum: 29ee43ce5212eeb9e5af97e587f2af26
+SHA1: ed1e77df04255ef2b6d032aa13a116aa0c6b3c9e
+SHA256: 6741d1b05df9de64a047994d78f64c4b9471d0f953144ca276d41b486a37ae43
+SHA512: 446a2d71deb0f9719294706b1ae8435b047b780450b178ca2f2681dd4978822f53c6aac6f1f3e91b089566b87289c417930b73d7470af0740d2b1ec63850e259
+Homepage: https://www.firefox.com.cn/
+Description: No shady privacy policies or back doors for advertisers.   Just a lightning fast browser that doesn�0�3�0�4t sell you out.
+

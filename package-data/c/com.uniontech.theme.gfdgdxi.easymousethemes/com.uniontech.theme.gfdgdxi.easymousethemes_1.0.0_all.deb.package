@@ -5,12 +5,12 @@ Priority: optional
 Section: admin
 Maintainer: 3025613752 <3025613752@qq.com>
 Installed-Size: 1104
+Depends: deepin-elf-verify (>= 1.1.10-1)
 Filename: ./c/com.uniontech.theme.gfdgdxi.easymousethemes/com.uniontech.theme.gfdgdxi.easymousethemes_1.0.0_all.deb
-Size: 35296
-MD5sum: c085e18da7da632f33af4e6375c7e2ef
-SHA1: 5fbe2ce320aba08e87924521462b7cba52fcd7ed
-SHA256: fa15f083bd659a93d23069480073949db867792a5dd19cc7464cc7e67be2eb56
-SHA512: 8da3322f808539816c7ecf91665f7a0c70a2c4d92b6dba0017fbebda83b03249239d96920cfe4e57443e3b41e3ca02c90396c268887b151968ca6e4caa79b59b
-Description: 自定义主题（内包含 壁纸、光标、字体）
- Easy-Mouse-Themes
+Size: 53904
+MD5sum: 62c00644d7739b0a405343eb88f1ac77
+SHA1: 4a0a410b63dd7da988730df6973797587af10a77
+SHA256: 4fea5a800059d9844d6ce763798cb1c273c8dd799581b107c6474ffd4c69c492
+SHA512: 4def1b89dfda47ccbff72116d3817a74e434795d5312b1ee72b78de134c2de66b41b359df33895d62a7662526b306f260d6ba36f1b6217e806671addb2f338b3
+Description: 自定义主题（内包含 壁纸、光标、字体） Easy-Mouse-Themes
 

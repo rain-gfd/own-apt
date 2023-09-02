@@ -1,0 +1,23 @@
+Package: flameshot
+Architecture: amd64
+Version: 12.1.0-1
+Priority: optional
+Section: graphics
+Maintainer: Boyuan Yang <byang@debian.org>
+Installed-Size: 3446
+Depends: hicolor-icon-theme, libqt5svg5 (>= 5.9.0~), libc6 (>= 2.14), libgcc1 (>= 1:3.0), libqt5core5a (>= 5.11.0~rc1), libqt5dbus5 (>= 5.9.0~), libqt5gui5 (>= 5.10.0), libqt5network5 (>= 5.9.0~), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 5.2)
+Recommends: xdg-desktop-portal-gtk | xdg-desktop-portal-gnome | xdg-desktop-portal-kde | xdg-desktop-portal-wlr, grim
+Suggests: ca-certificates, openssl
+Filename: ./f/flameshot/flameshot_12.1.0-1_amd64.deb
+Size: 698932
+MD5sum: cb49cc6f105dab6785ee21bd3f6a79d0
+SHA1: 210e09cd358dbba16b9e05df51027e780da8271e
+SHA256: 33132ac63c64eb2a37de39d3d5bf4fd09266166c912d1cc0b26ea8eb0e9f27de
+SHA512: c795d6dbd2b4acc86e0dcb1f3f8f279cf3179c32fe151c35cee2a149794311caeacc10816f1760c6e8c6cd416f5f27138a6f63e60ecbb525b078dc739725061d
+Homepage: https://github.com/flameshot-org/flameshot
+Description: Powerful yet simple-to-use screenshot software
+ Flameshot is a powerful yet simple-to-use screenshot software.
+ Notable features include customizable appearance, in-app screenshot editing,
+ D-Bus interface, experimental GNOME/KDE Wayland support, integration with
+ Imgur and support for both GUI and CLI interface.
+
