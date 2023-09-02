@@ -1,0 +1,27 @@
+Package: virtualbox-6.1
+Architecture: amd64
+Version: 6.1.46-158378~Debian~buster
+Priority: optional
+Section: contrib/misc
+Maintainer: Oracle Corporation <info@virtualbox.org>
+Installed-Size: 217738
+Provides: virtualbox
+Pre-Depends: debconf (>= 1.1) | debconf-2.0
+Depends: psmisc, adduser, libc6 (>= 2.28), libcurl4 (>= 7.16.2), libdevmapper1.02.1 (>= 2:1.02.97), libgcc1 (>= 1:3.0), libgl1, libopus0 (>= 1.1), libpng16-16 (>= 1.6.2-1), libqt5core5a (>= 5.11.0~rc1), libqt5gui5 (>= 5.4.0), libqt5opengl5 (>= 5.0.2), libqt5printsupport5 (>= 5.0.2), libqt5widgets5 (>= 5.11.0~rc1), libqt5x11extras5 (>= 5.6.0), libsdl1.2debian (>= 1.2.11), libssl1.1 (>= 1.1.1), libstdc++6 (>= 5.2), libvpx5 (>= 1.6.0), libx11-6, libxcb1, libxcursor1 (>> 1.1.2), libxext6, libxml2 (>= 2.7.4), libxt6, zlib1g (>= 1:1.1.4)
+Recommends: libasound2, libpulse0, libsdl-ttf2.0-0, kmod | kldutils | module-init-tools, linux-headers-generic | linux-headers-generic-pae | linux-headers-686-pae | linux-headers-amd64 | linux-headers-2.6-686 | linux-headers-2.6-amd64 | linux-headers, linux-image, gcc, make | build-essential | dpkg-dev, binutils, pdf-viewer
+Conflicts: virtualbox, virtualbox-guest-additions-iso, virtualbox-ose, virtualbox-qt
+Replaces: virtualbox
+Filename: ./v/virtualbox-6.1/virtualbox-6.1_6.1.46-158378~Debian~buster_amd64.deb
+Size: 95941936
+MD5sum: f3d28b0bfa695f264bc6ee8c821a2589
+SHA1: 765e0dfffcbabdb012aabb7e633e1e9d118f3c1b
+SHA256: 5a67d2d4253f40508aa6d40066fc0a4eb5e72c5d6cdd97e5b5fc1e15a8a52830
+SHA512: c0de28878ac582c3a48eb32fc3dd0760211db0ed7a552968a34bc2025e1a15e125431f000fc9e3ee2a1a79d690d00895c089d82f1fa60ecf63033df1a957bf71
+Description: Oracle VM VirtualBox
+ VirtualBox is a powerful PC virtualization solution allowing you to run a
+ wide range of PC operating systems on your Linux system. This includes
+ Windows, Linux, FreeBSD, DOS, OpenBSD and others. VirtualBox comes with a broad
+ feature set and excellent performance, making it the premier virtualization
+ software solution on the market.
+Python-Version: 2.7
+
