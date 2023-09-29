@@ -1,0 +1,18 @@
+Package: spark-waydroid-runner
+Architecture: all
+Version: 1.2.0.1
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 3644
+Depends: python3,python3-pip, deepin-terminal | mate-terminal | gnome-terminal | xfce4-terminal, curl, python3-requests, adb, fonts-noto-cjk, python3-numpy, wget, inotify-tools, aria2, python3-pyqt5, python3-matplotlib, python3-urllib3, zenity, python3-pip
+Recommends: aapt
+Filename: ./s/spark-waydroid-runner/spark-waydroid-runner_1.2.0.1_all.deb
+Size: 1229240
+MD5sum: aae158ee4d8ba9ef6fb7067da1dbaeaa
+SHA1: 3b3d61d0860d808c2cfc721195d2c1a1aee063c6
+SHA256: c974b1575dda2959da7582bdd300dafd1e551bf06708b5468480b99f7f2eb433
+SHA512: d152b19132ad1dbc5b70c4be05ad7b5e69ee9abc5d0d8ce6d8a1bc58e3dd0f8e93e28d6ebf74ad681c08cd5f3eb248ae037d6e62303ee7dbeb5559af9e8b7bdf
+Homepage: https://gitee.com/gfdgd-xi/waydroid-runner
+Description: Waydroid 运行器
+
