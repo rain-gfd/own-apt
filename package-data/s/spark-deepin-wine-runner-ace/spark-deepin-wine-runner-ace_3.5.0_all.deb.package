@@ -1,0 +1,22 @@
+Package: spark-deepin-wine-runner-ace
+Architecture: all
+Version: 3.5.0
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 23244
+Depends: cn.flamescion.bookworm-compatibility-mode,bash,wget,sudo,libnotify-bin
+Filename: ./s/spark-deepin-wine-runner-ace/spark-deepin-wine-runner-ace_3.5.0_all.deb
+Size: 23687628
+MD5sum: 8668ed6c6fc0fc3bc8ddf1e127ce8527
+SHA1: 368257ccfea0fd508b5f43d1573e0ff6546ff908
+SHA256: e730029d34a9bec8a988ab85649ed743f76187c49cbdd8de32b96defaa1f4433
+SHA512: 7c6a8cc17c351699ffe1f09dca035a6868d70c971ff29733231bf7f77f479921b5ce3a54f1b0cfcb6efb9b667fcda1872d3430220245eb2226eb4033e0411b02
+Homepage: https://gitee.com/gfdgd-xi/deep-wine-runner
+Description: Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序，内置了对Wine图形化的支持、各种Wine工具、自制的Wine程序打包器和运行库安装工具等。
+ 它同时还内置了基于Qemu/VirtualBox制作的、专供小白使用的Windows虚拟机安装工具，可以做到只需下载系统镜像并点击安装即可，无需考虑虚拟机的安装、创建、分区等操作，也能在非 X86 架构安装 X86 架构的 Windows 操作系统（但是效率较低）。
+Severity: serious
+Certainty: possible
+Check: binaries
+Type: binary, udeb
+
